@@ -1,4 +1,6 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1  group-title="CANAIS",[BR] Rookie Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  group-title="CANAIS",[24H] AS Tartarugas Ninja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1  group-title="CANAIS",[24H] Bob Esponja
@@ -15,1697 +17,669 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f9655800900080849
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1  group-title="CANAIS",[24H] Os Padrinhos M gicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1  group-title="CANAIS",[24H] Super Onze
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1  group-title="CANAIS",[BR] Animal Planet FHD
-http://supersonictv.live:8080/945213/876115/84936
-#EXTINF:-1  group-title="CANAIS",[BR] AXN FHD
-http://supersonictv.live:8080/945213/876115/84938
-#EXTINF:-1  group-title="CANAIS",[BR] Band FHD
-http://supersonictv.live:8080/945213/876115/84940
-#EXTINF:-1  group-title="CANAIS",[BR] Band News FHD
-http://supersonictv.live:8080/945213/876115/84941
-#EXTINF:-1  group-title="CANAIS",[BR] Band Sports FHD
-http://supersonictv.live:8080/945213/876115/84942
-#EXTINF:-1  group-title="CANAIS",[BR] Boa Vontade FHD
-http://supersonictv.live:8080/945213/876115/85130
-#EXTINF:-1  group-title="CANAIS",[BR] Boomerang FHD
-http://supersonictv.live:8080/945213/876115/84944
-#EXTINF:-1  group-title="CANAIS",[BR] Canal Brasil FHD
-http://supersonictv.live:8080/945213/876115/84945
-#EXTINF:-1  group-title="CANAIS",[BR] Canale 7 It lia
-http://supersonictv.live:8080/945213/876115/85154
-#EXTINF:-1  group-title="CANAIS",[BR] CBN Rio
-http://supersonictv.live:8080/945213/876115/85159
-#EXTINF:-1  group-title="CANAIS",[BR] CBN S o Paulo
-http://supersonictv.live:8080/945213/876115/85160
-#EXTINF:-1  group-title="CANAIS",[BR] Chef TV FHD
-http://supersonictv.live:8080/945213/876115/84947
-#EXTINF:-1  group-title="CANAIS",[BR] ChromaTV
-http://supersonictv.live:8080/945213/876115/85368
-#EXTINF:-1  group-title="CANAIS",[BR] Cinemax FHD
-http://supersonictv.live:8080/945213/876115/84948
-#EXTINF:-1  group-title="CANAIS",[BR] Cinemax HD
-http://supersonictv.live:8080/945213/876115/84949
-#EXTINF:-1  group-title="CANAIS",[BR] CNN BRASIL
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",[BR] CNN Brasil FHD
-http://supersonictv.live:8080/945213/876115/84950
-#EXTINF:-1  group-title="CANAIS",[BR] COMBATE 4K
-http://supersonictv.live:8080/945213/876115/85165
-#EXTINF:-1  group-title="CANAIS",[BR] Combate FHD
-http://supersonictv.live:8080/945213/876115/84953
-#EXTINF:-1  group-title="CANAIS",[BR] Conmebol 1 FHD
-http://supersonictv.live:8080/945213/876115/85126
-#EXTINF:-1  group-title="CANAIS",[BR] Conmebol 1 HD
-http://supersonictv.live:8080/945213/876115/85166
-#EXTINF:-1  group-title="CANAIS",[BR] Conmebol 2 FHD
-http://supersonictv.live:8080/945213/876115/85127
-#EXTINF:-1  group-title="CANAIS",[BR] Conmebol 4 FHD
-http://supersonictv.live:8080/945213/876115/85129
-#EXTINF:-1  group-title="CANAIS",[BR] Conmebol 6 HD
-http://supersonictv.live:8080/945213/876115/85170
-#EXTINF:-1  group-title="CANAIS",[BR] COPA CATARINENSE *
-http://supersonictv.live:8080/945213/876115/84955
-#EXTINF:-1  group-title="CANAIS",[BR] COPA CATARINENSE 2 *
-http://supersonictv.live:8080/945213/876115/84956
-#EXTINF:-1  group-title="CANAIS",[BR] Demais TV
-http://supersonictv.live:8080/945213/876115/85370
-#EXTINF:-1  group-title="CANAIS",[BR] Discovery Channel FHD
-http://supersonictv.live:8080/945213/876115/84966
-#EXTINF:-1  group-title="CANAIS",[BR] Discovery ID FHD
-http://supersonictv.live:8080/945213/876115/84968
-#EXTINF:-1  group-title="CANAIS",[BR] Discovery Science FHD
-http://supersonictv.live:8080/945213/876115/84970
-#EXTINF:-1  group-title="CANAIS",[BR] Discovery Turbo FHD
-http://supersonictv.live:8080/945213/876115/84972
-#EXTINF:-1  group-title="CANAIS",[BR] DJTV HD
-http://supersonictv.live:8080/945213/876115/85362
-#EXTINF:-1  group-title="CANAIS",[BR] Dog TV FHD
-http://supersonictv.live:8080/945213/876115/85171
-#EXTINF:-1  group-title="CANAIS",[BR] E! FHD
-http://supersonictv.live:8080/945213/876115/84977
-#EXTINF:-1  group-title="CANAIS",[BR] ESPN 2 FHD
-http://supersonictv.live:8080/945213/876115/84978
-#EXTINF:-1  group-title="CANAIS",[BR] ESPN Brasil 4K
-http://supersonictv.live:8080/945213/876115/85178
-#EXTINF:-1  group-title="CANAIS",[BR] ESPN Brasil FHD
-http://supersonictv.live:8080/945213/876115/84979
-#EXTINF:-1  group-title="CANAIS",[BR] ESPN Extra FHD
-http://supersonictv.live:8080/945213/876115/84980
-#EXTINF:-1  group-title="CANAIS",[BR] ESPN FHD
-http://supersonictv.live:8080/945213/876115/84981
-#EXTINF:-1  group-title="CANAIS",[BR] Fish TV FHD
-http://supersonictv.live:8080/945213/876115/84983
-#EXTINF:-1  group-title="CANAIS",[BR] Fox Sport HD
-http://supersonictv.live:8080/945213/876115/84991
-#EXTINF:-1  group-title="CANAIS",[BR] Fox Sports 2 FHD
-http://supersonictv.live:8080/945213/876115/84992
-#EXTINF:-1  group-title="CANAIS",[BR] Fox Sports 4K
-http://supersonictv.live:8080/945213/876115/85182
-#EXTINF:-1  group-title="CANAIS",[BR] Fox Sports FHD
-http://supersonictv.live:8080/945213/876115/84993
-#EXTINF:-1  group-title="CANAIS",[BR] Fox Sports SD
-http://supersonictv.live:8080/945213/876115/84994
-#EXTINF:-1  group-title="CANAIS",[BR] FX FHD
-http://supersonictv.live:8080/945213/876115/84995
-#EXTINF:-1  group-title="CANAIS",[BR] GLOBO SP FHD
-http://supersonictv.live:8080/945213/876115/85015
-#EXTINF:-1  group-title="CANAIS",[BR] Gloob FHD
-http://supersonictv.live:8080/945213/876115/85030
-#EXTINF:-1  group-title="CANAIS",[BR] HBO 2 FHD
-http://supersonictv.live:8080/945213/876115/85034
-#EXTINF:-1  group-title="CANAIS",[BR] HBO Family FHD
-http://supersonictv.live:8080/945213/876115/85035
-#EXTINF:-1  group-title="CANAIS",[BR] HBO FHD
-http://supersonictv.live:8080/945213/876115/85036
-#EXTINF:-1  group-title="CANAIS",[BR] HBO Mundi FHD
-http://supersonictv.live:8080/945213/876115/85037
-#EXTINF:-1  group-title="CANAIS",[BR] HBO Plus FHD
-http://supersonictv.live:8080/945213/876115/85038
-#EXTINF:-1  group-title="CANAIS",[BR] HBO XTREME 4K
-http://supersonictv.live:8080/945213/876115/85221
-#EXTINF:-1  group-title="CANAIS",[BR] HBO Xtreme FHD
-http://supersonictv.live:8080/945213/876115/85041
-#EXTINF:-1  group-title="CANAIS",[BR] Inter TV dos Vales FHD
-http://supersonictv.live:8080/945213/876115/85044
-#EXTINF:-1  group-title="CANAIS",[BR] ITV HD
-http://supersonictv.live:8080/945213/876115/85227
-#EXTINF:-1  group-title="CANAIS",[BR] Jovem Pan News FHD
-http://supersonictv.live:8080/945213/876115/85228
-#EXTINF:-1  group-title="CANAIS",[BR] Lifetime FHD
-http://supersonictv.live:8080/945213/876115/85045
-#EXTINF:-1  group-title="CANAIS",[BR] MEGAPIX 4K
-http://supersonictv.live:8080/945213/876115/85232
-#EXTINF:-1  group-title="CANAIS",[BR] Megapix FHD
-http://supersonictv.live:8080/945213/876115/85047
-#EXTINF:-1  group-title="CANAIS",[BR] MTV FHD
-http://supersonictv.live:8080/945213/876115/85048
-#EXTINF:-1  group-title="CANAIS",[BR] MTV HD
-http://supersonictv.live:8080/945213/876115/85049
-#EXTINF:-1  group-title="CANAIS",[BR] Multishow FHD
-http://supersonictv.live:8080/945213/876115/85050
-#EXTINF:-1  group-title="CANAIS",[BR] Music Box Brasil FHD
-http://supersonictv.live:8080/945213/876115/85051
-#EXTINF:-1  group-title="CANAIS",[BR] Natgeo FHD
-http://supersonictv.live:8080/945213/876115/85052
-#EXTINF:-1  group-title="CANAIS",[BR] Nick FHD
-http://supersonictv.live:8080/945213/876115/85055
-#EXTINF:-1  group-title="CANAIS",[BR] Nick JR FHD
-http://supersonictv.live:8080/945213/876115/85056
-#EXTINF:-1  group-title="CANAIS",[BR] OFF FHD
-http://supersonictv.live:8080/945213/876115/85058
-#EXTINF:-1  group-title="CANAIS",[BR] Polishop FHD
-http://supersonictv.live:8080/945213/876115/85239
-#EXTINF:-1  group-title="CANAIS",[BR] Premiere 3 FHD
-http://supersonictv.live:8080/945213/876115/85063
-#EXTINF:-1  group-title="CANAIS",[BR] Primer TV HD
-http://supersonictv.live:8080/945213/876115/85367
-#EXTINF:-1  group-title="CANAIS",[BR] RBT Rede Brasil TV HD
-http://supersonictv.live:8080/945213/876115/85244
-#EXTINF:-1  group-title="CANAIS",[BR] RECORD 4K
-http://supersonictv.live:8080/945213/876115/85245
-#EXTINF:-1  group-title="CANAIS",[BR] Record BH HD
-http://supersonictv.live:8080/945213/876115/85072
-#EXTINF:-1  group-title="CANAIS",[BR] Record Bras lia HD
-http://supersonictv.live:8080/945213/876115/85247
-#EXTINF:-1  group-title="CANAIS",[BR] Record Goi s HD
-http://supersonictv.live:8080/945213/876115/85248
-#EXTINF:-1  group-title="CANAIS",[BR] Record Itapoan HD
-http://supersonictv.live:8080/945213/876115/85249
-#EXTINF:-1  group-title="CANAIS",[BR] Record RS HD
-http://supersonictv.live:8080/945213/876115/85253
-#EXTINF:-1  group-title="CANAIS",[BR] Record SP HD
-http://supersonictv.live:8080/945213/876115/85256
-#EXTINF:-1  group-title="CANAIS",[BR] RECORD*
-http://supersonictv.live:8080/945213/876115/85085
-#EXTINF:-1  group-title="CANAIS",[BR] Rede Familia FHD
-http://supersonictv.live:8080/945213/876115/85259
-#EXTINF:-1  group-title="CANAIS",[BR] Rede Minas FHD
-http://supersonictv.live:8080/945213/876115/85260
-#EXTINF:-1  group-title="CANAIS",[BR] Rede S culo 21
-http://supersonictv.live:8080/945213/876115/85261
-#EXTINF:-1  group-title="CANAIS",[BR] Rede Super FHD
-http://supersonictv.live:8080/945213/876115/85087
-#EXTINF:-1  group-title="CANAIS",[BR] Rede TV 4K
-http://supersonictv.live:8080/945213/876115/85262
-#EXTINF:-1  group-title="CANAIS",[BR] Rede TV FHD
-http://supersonictv.live:8080/945213/876115/85088
-#EXTINF:-1  group-title="CANAIS",[BR] Rock TV
-http://supersonictv.live:8080/945213/876115/85266
-#EXTINF:-1  group-title="CANAIS",[BR] Rookie Blue
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",[BR] Santu rio de F tima FHD
-http://supersonictv.live:8080/945213/876115/85267
-#EXTINF:-1  group-title="CANAIS",[BR] SBT BA HD
-http://supersonictv.live:8080/945213/876115/85270
-#EXTINF:-1  group-title="CANAIS",[BR] SBT GO HD
-http://supersonictv.live:8080/945213/876115/85271
-#EXTINF:-1  group-title="CANAIS",[BR] SBT MT HD
-http://supersonictv.live:8080/945213/876115/85275
-#EXTINF:-1  group-title="CANAIS",[BR] SBT SD
-http://supersonictv.live:8080/945213/876115/85280
-#EXTINF:-1  group-title="CANAIS",[BR] Shoptime FHD
-http://supersonictv.live:8080/945213/876115/85090
-#EXTINF:-1  group-title="CANAIS",[BR] Sony FHD
-http://supersonictv.live:8080/945213/876115/85091
-#EXTINF:-1  group-title="CANAIS",[BR] SporTV 3 FHD
-http://supersonictv.live:8080/945213/876115/85094
-#EXTINF:-1  group-title="CANAIS",[BR] SporTV FHD
-http://supersonictv.live:8080/945213/876115/85095
-#EXTINF:-1  group-title="CANAIS",[BR] Star DUAL HD
-http://supersonictv.live:8080/945213/876115/85285
-#EXTINF:-1  group-title="CANAIS",[BR] Studio Universal FHD
-http://supersonictv.live:8080/945213/876115/85096
-#EXTINF:-1  group-title="CANAIS",[BR] SYFY FHD
-http://supersonictv.live:8080/945213/876115/85097
-#EXTINF:-1  group-title="CANAIS",[BR] TC Action DUAL HD
-http://supersonictv.live:8080/945213/876115/85290
-#EXTINF:-1  group-title="CANAIS",[BR] TC Cult FHD
-http://supersonictv.live:8080/945213/876115/85100
-#EXTINF:-1  group-title="CANAIS",[BR] TC Fun DUAL HD
-http://supersonictv.live:8080/945213/876115/85294
-#EXTINF:-1  group-title="CANAIS",[BR] TC Fun FHD
-http://supersonictv.live:8080/945213/876115/85101
-#EXTINF:-1  group-title="CANAIS",[BR] TC Premium DUAL HD
-http://supersonictv.live:8080/945213/876115/85298
-#EXTINF:-1  group-title="CANAIS",[BR] TC Touch DUAL FHD
-http://supersonictv.live:8080/945213/876115/85299
-#EXTINF:-1  group-title="CANAIS",[BR] TC Touch DUAL HD
-http://supersonictv.live:8080/945213/876115/85300
-#EXTINF:-1  group-title="CANAIS",[BR] TC Touch FHD
-http://supersonictv.live:8080/945213/876115/85104
-#EXTINF:-1  group-title="CANAIS",[BR] TELECINE PREMIUM 4K
-http://supersonictv.live:8080/945213/876115/85301
-#EXTINF:-1  group-title="CANAIS",[BR] TLC FHD
-http://supersonictv.live:8080/945213/876115/85107
-#EXTINF:-1  group-title="CANAIS",[BR] TNT DUAL HD
-http://supersonictv.live:8080/945213/876115/85307
-#EXTINF:-1  group-title="CANAIS",[BR] TNT FHD
-http://supersonictv.live:8080/945213/876115/85108
-#EXTINF:-1  group-title="CANAIS",[BR] Tooncast FHD
-http://supersonictv.live:8080/945213/876115/85110
-#EXTINF:-1  group-title="CANAIS",[BR] TV Brasil 2 FHD
-http://supersonictv.live:8080/945213/876115/85329
-#EXTINF:-1  group-title="CANAIS",[BR] TV Cultura FHD
-http://supersonictv.live:8080/945213/876115/85333
-#EXTINF:-1  group-title="CANAIS",[BR] TV Cultura HD
-http://supersonictv.live:8080/945213/876115/85334
-#EXTINF:-1  group-title="CANAIS",[BR] TV Escola HD
-http://supersonictv.live:8080/945213/876115/85338
-#EXTINF:-1  group-title="CANAIS",[BR] TV Gazeta 4K
-http://supersonictv.live:8080/945213/876115/85339
-#EXTINF:-1  group-title="CANAIS",[BR] TV Imaculada HD
-http://supersonictv.live:8080/945213/876115/85341
-#EXTINF:-1  group-title="CANAIS",[BR] TV Justi a
-http://supersonictv.live:8080/945213/876115/85342
-#EXTINF:-1  group-title="CANAIS",[BR] TV MaisNews|Cultura FHD
-http://supersonictv.live:8080/945213/876115/85363
-#EXTINF:-1  group-title="CANAIS",[BR] TV Novo Tempo FHD
-http://supersonictv.live:8080/945213/876115/85344
-#EXTINF:-1  group-title="CANAIS",[BR] TV Pai Eterno FHD
-http://supersonictv.live:8080/945213/876115/85346
-#EXTINF:-1  group-title="CANAIS",[BR] TV Pampa HD
-http://supersonictv.live:8080/945213/876115/85348
-#EXTINF:-1  group-title="CANAIS",[BR] TV Ra Tim Bum FHD
-http://supersonictv.live:8080/945213/876115/85115
-#EXTINF:-1  group-title="CANAIS",[BR] TV Santa Cruz FHD
-http://supersonictv.live:8080/945213/876115/85116
-#EXTINF:-1  group-title="CANAIS",[BR] TV Senado HD
-http://supersonictv.live:8080/945213/876115/85349
-#EXTINF:-1  group-title="CANAIS",[BR] TV Sergipe FHD
-http://supersonictv.live:8080/945213/876115/85117
-#EXTINF:-1  group-title="CANAIS",[BR] TV Tem Bauru FHD
-http://supersonictv.live:8080/945213/876115/85124
-#EXTINF:-1  group-title="CANAIS",[BR] Universal Channel HD
-http://dzcdn.vood.top:80/hls/742_.m3u8
-#EXTINF:-1  group-title="CANAIS",[BR] Warner Channel FHD
-http://supersonictv.live:8080/945213/876115/85122
-#EXTINF:-1  group-title="CANAIS",[BR] ZooMoo HD
-http://supersonictv.live:8080/945213/876115/85359
-#EXTINF:-1  group-title="CANAIS",011 News HD
-https://011news.akamaized.net/011news/011news/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",1Mus
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1  group-title="CANAIS",4 POR 4
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",40 GRAUS TV
-https://acesso.ecast.site:3125/stream/play.m3u8
-#EXTINF:-1  group-title="CANAIS",4Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1  group-title="CANAIS",4FUN TV
-https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
-#EXTINF:-1  group-title="CANAIS",88 STEREO
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",A Casa M gica da Gabby YT
-https://ythls.armelin.one/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8
-#EXTINF:-1  group-title="CANAIS",A Escrava_Isaura
-https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
-#EXTINF:-1  group-title="CANAIS",Adesso TV
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",ADESSO TV
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",AFV en Espanol
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",AgitoMax
-https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Agro Brasil
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",AgroBrasil TV (720p) [Not 24/7]
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",AgroMais HD
-https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="CANAIS",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Always Funny Videos Home Disaster Zone (Geo)
-https://live863.delivery.roku.com/f302f212-9499-4203-802c-8646620d0555/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Amazon Sat (1080p)
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1  group-title="CANAIS",AmazonSat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",AMC SD
-http://148.113.160.49:14008/
-#EXTINF:-1  group-title="CANAIS",Animax
-https://stream.ichibantv.com:3547/hybrid/play.m3u8
-#EXTINF:-1  group-title="CANAIS",Anime TV - WebTV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Animes TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",AniTV
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1  group-title="CANAIS",Anos 80 retro
-https://hls.hunter.fm/80s/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1  group-title="CANAIS",Antiques Roadshow UK
-https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",As Pistas de Blue
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",Assembleia Legislativa do Estado de Mato Grosso (720p)
-https://streaming.al.mt.gov.br/test/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Assombra  es
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Astral TV FHD
-https://isaocorp.cloudecast.com/astraltv/index.m3u8
-#EXTINF:-1  group-title="CANAIS",AVAN A BRASIL
-https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",AW TV
-https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",AWTV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:-1  group-title="CANAIS",Baby Shark
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1  group-title="CANAIS",Baby Shark TV (Geo)
-https://live461.delivery.roku.com/24416bff-cf3f-413e-b613-169de924f857/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Baby Shark TV alt
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Baby TV HD
-http://fzcdn.vood.top:80/hls/349_.m3u8
-#EXTINF:-1  group-title="CANAIS",Babyfirst
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",Band - TV Arapuan HD (PB)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Band Arapuan HD
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",Band BA- N   24h
-https://ythls.armelin.one/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8
-#EXTINF:-1  group-title="CANAIS",Band Goi�nia - TV Sucesso HD
-https://live-stream.gsnoticias.net.br/live/live-goiania.flv
-#EXTINF:-1  group-title="CANAIS",Band Par� - RBA TV
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Band RJ - N   24h
-https://ythls.armelin.one/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
-#EXTINF:-1  group-title="CANAIS",Band TV - Vale do Uruar�
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Band TV - Vale do Uruar  SD
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Barney and Friends (Geo) check
-https://live89.delivery.roku.com/74c34020-246b-4cfc-8b91-30e869fafb50/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",BEM TV
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",BET Being Mary Jane
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",BET Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",Beyblade
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",BLITS TV
-https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1  group-title="CANAIS",Boa Vontade TV (Youtube)
-https://ythls.armelin.one/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
-#EXTINF:-1  group-title="CANAIS",Boas Novas
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Bons Tempos TV - WebTV
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Boruto: Naruto Next Generations
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1  group-title="CANAIS",BR Super TV
-http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",BS TV
-https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
-#EXTINF:-1  group-title="CANAIS",CAMOCIM WEB TV
-https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
-#EXTINF:-1  group-title="CANAIS",Can  o Nova Youtube
-https://livestream.zazerconer.workers.dev/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal 25 Jundia  (404p) [Not 24/7]
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1  group-title="CANAIS",CANAL 25 JUNDIAI
-http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal 38 (720p)
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal do Criador (1080p)
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal do Inter (720p) [Not 24/7]
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal Educa  o (720p)
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal Futura
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal GOAT N   24h
-https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal Libras
-https://canallibras-stream.ebc.com.br/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal Metropolitano de Noticias (720p)
-https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal Sa�de
-https://cdn.eduplay.rnp.br/route/CFwapWdsWCYQ/index.m3u8?s=aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9tZWRpYS9DRndhcFdkc1dDWVEvaW5kZXgubTN1OD94PTEmbT0tOV9icElwMl9ySFA4V0dnUERBRFRn&x=1&p=0&m=IC4XC7sMNA-G56lk0uY-Hg&nr=true
-#EXTINF:-1  group-title="CANAIS",Canal Smart
-https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Canal UOL
-https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Canela Telenovelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1  group-title="CANAIS",Capital TV
-https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Captain Tsubasa
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Caravana Play
-https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CARTOONITO HD
-http://fzcdn.vood.top:80/hls/110683_.m3u8
-#EXTINF:-1  group-title="CANAIS",Catve - Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CATVE 2
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Catve FM (720p) [Not 24/7]
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Catve Master TV (720p) [Not 24/7]
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CATVE TV Cultura HD
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Caz TV FHD
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1  group-title="CANAIS",Caz TV YT
-https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
-#EXTINF:-1  group-title="CANAIS",CCTV Filmes
-https://cctvwbcdtxyhw.liveplay.myqcloud.com/live/cdrmjzcctv6_1/index.m3u8
-#EXTINF:-1  group-title="CANAIS",CCTV Not�cias
-https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Central TV
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CHANNEL ONE
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Chroma TV (480p)
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Cine Brasil
-https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Cine Real (Geo)
-https://live435.delivery.roku.com/4e0a3d3a-de67-4b64-8954-33ea2b9355b4/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Cine Sureno (Geo)
-https://live335.delivery.roku.com/28e505f3-4875-472e-9586-946b89508cf2/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",CINEMAX FHD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
-#EXTINF:-1  group-title="CANAIS",Cinevault Classics
-https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Cinevault Murder and Mayhem (Geo)
-https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Circle (Geo)
-https://live931.delivery.roku.com/e29fbd4f-d96d-4c5b-8bfa-2c276a2bdeed/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
-#EXTINF:-1  group-title="CANAIS",CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CLASSIQUE TV SERIES
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CLASSIQUE TV WESTERN
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
-#EXTINF:-1  group-title="CANAIS",Classique TV Western (360p)
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CLASSIQUE TV WETERN
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
-#EXTINF:-1  group-title="CANAIS",Clube do Terror
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Clube Web TV
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",CNN BRASIL
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:-1  group-title="CANAIS",CNN BRASIL SD
-https://cdn-4.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
-#EXTINF:-1  group-title="CANAIS",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CNN USA
-https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Cocoric
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Colosal TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",COM Brasil (1080p) [Not 24/7]
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",COMBATE GLOBAL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1  group-title="CANAIS",Comedy Central Pluto
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
-#EXTINF:-1  group-title="CANAIS",Comedy Central Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Comedy Central South Park
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",CONECT TV
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1  group-title="CANAIS",CONECTV
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Conex o TV (720p)
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CONEXAO TV
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
-#EXTINF:-1  group-title="CANAIS",Corinthians TV
-https://ythls.armelin.one/channel/UCqRraVICLr0asn90cAvkIZQ.m3u8
-#EXTINF:-1  group-title="CANAIS",CSI: Miami
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",Cultne TV
-https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
-#EXTINF:-1  group-title="CANAIS",Cultura Par�
-https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Cultura Par  (480p) [Not 24/7]
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Curta!
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",CWB TV
-https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Dark Flix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Dark Matter
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
-#EXTINF:-1  group-title="CANAIS",DarkFlix HD
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",DCPC Infantil
-https://cdn-4.nxplay.com.br/dcpc/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Death Note
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Demais TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Demand Africa
-https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Deportes | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",Detetives M dicos
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",Deutsche Welle
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  group-title="CANAIS",DiaTV (1080p)
-https://ythls.armelin.one/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
-#EXTINF:-1  group-title="CANAIS",Disney Channel
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
-#EXTINF:-1  group-title="CANAIS",Doctor Who Classic
-https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",El Rey Network (Geo)
-https://live896.delivery.roku.com/7a69bdf4-89a7-416d-9085-52621b2d6dce/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",ELYTV
-https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Empreender HD
-https://ythls.armelin.one/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
-#EXTINF:-1  group-title="CANAIS",Energia 97
-https://streaming.inweb.com.br/energia
-#EXTINF:-1  group-title="CANAIS",Energia 97
-https://ythls.armelin.one/channel/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
-#EXTINF:-1  group-title="CANAIS",ESPN 5
-http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
-#EXTINF:-1  group-title="CANAIS",ESPN FHD
-http://hzcdn.vood.top:80/hls/309458_.m3u8
-#EXTINF:-1  group-title="CANAIS",ESPN FHD [Alter]
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
-#EXTINF:-1  group-title="CANAIS",ESPN UHD
-http://186.226.215.132:80/carlos123/carlos123/504
-#EXTINF:-1  group-title="CANAIS",E-Sports | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",EU TV
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Euronews Espanol alt
-https://euronews-euronews-spanish-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Euronews News World alt
-https://euronews-euronews-world-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Euronews Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",EUROSPORT 1 HD
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8026
-#EXTINF:-1  group-title="CANAIS",EUROSPORT 2 HD
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8024
-#EXTINF:-1  group-title="CANAIS",EWTN
-https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",FailArmy
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",Fala Litoral (480p)
-https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",FALA LITORAL WEB TV
-https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",FIGHT
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Filmes e S ries
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
-#EXTINF:-1  group-title="CANAIS",Filmes Suspense
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=1816ea1a-0c99-11ec-ade7-0242ac110003&sid=1816ea1a-0c99-11ec-ade7-0242ac110003&userId=
-#EXTINF:-1  group-title="CANAIS",Filmex Clasico (Geo)
-https://live940.delivery.roku.com/03c08ded-0cac-4c44-a423-f2670e78da2b/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",FITE
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
-#EXTINF:-1  group-title="CANAIS",FLA TV
-https://ythls.armelin.one/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
-#EXTINF:-1  group-title="CANAIS",FLOW PodCast
-https://ythls.armelin.one/channel/UC4ncvgh5hFr5O83MH7-jRJg.m3u8
-#EXTINF:-1  group-title="CANAIS",Flow Sport Club
-https://ythls.armelin.one/channel/UC5-aueB1RqpUc-EeAjtx9Lw.m3u8
-#EXTINF:-1  group-title="CANAIS",FM O DIA 100.5 - EST�DIO AO VIVO
-https://cdn.livespanel.com/live/fmodia/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Fonte TV (1080p) [Not 24/7]
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1  group-title="CANAIS",FonteTV (GO)
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Food Network
-https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Fora T dio TV (720p) [Not 24/7]
-http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Fox Kids
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",FOX News
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1  group-title="CANAIS",FOX News NOW | EUA
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1  group-title="CANAIS",Gazeta do Povo
-https://ythls.armelin.one/channel/UCWdGgeyOnCOGnvhNdbVl1dQ.m3u8
-#EXTINF:-1  group-title="CANAIS",Ge Fast HD
-https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
-#EXTINF:-1  group-title="CANAIS",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Globo Bras lia HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/51
-#EXTINF:-1  group-title="CANAIS",Gospel
-https://hls.hunter.fm/gospel/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1  group-title="CANAIS",Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Gospel Internacional
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
-#EXTINF:-1  group-title="CANAIS",Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Gospel Music
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Gostei Gospel TV
-https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Great American Adventures (Geo)
-https://live1002.delivery.roku.com/a7846230-bf27-4138-8cc4-461fc01b88a3/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",GRJNGO
-http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Groselha Cast
-https://ythls.armelin.one/channel/UCWDmPOsRxlprrygWI-8GekA.m3u8
-#EXTINF:-1  group-title="CANAIS",GuiaTV
-https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Hallo Anime
-https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Hallo Classic
-https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1  group-title="CANAIS",Hallo Music
-https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1  group-title="CANAIS",Hallo Series
-https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1  group-title="CANAIS",HI Yah! (Geo)
-https://live886.delivery.roku.com/65edd2e1-e808-4e0a-83a4-37ce8128e44c/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Hits Brasil
-https://hls.hunter.fm/hitsbrasil/64.m3u8?shtl=7KWu3SjMvgY-GhV1-8B6b9rB.lpykqpyxgqfSK4vGJSb3tqheOVp2UggEshcePVZJDVw
-#EXTINF:-1  group-title="CANAIS",Hi-Yah alt
-https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Hola Play
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1  group-title="CANAIS",htforum.net
-https://lib.bz/video/htforum.mp4
-#EXTINF:-1  group-title="CANAIS",Igreja Universal
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",iHeart 80s
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",iHeart 90s
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",iHeart Alt Radio
-https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",iHeart Country
-https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",iHeart Hit Nation
-https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",iHeart Latino Hits
-https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",iHeart The Beat
-https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Impossible
-https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Inferno sobre Rodas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Intelig ncia LTDA
-https://ythls.armelin.one/channel/UCWZoPPW7u2I4gZfhJBZ6NqQ.m3u8
-#EXTINF:-1  group-title="CANAIS",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",ISTV FHD
-https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
-#EXTINF:-1  group-title="CANAIS",JERE FM 106.9 JEREMOABO BA
-http://172.82.160.250:8309/stream
-#EXTINF:-1  group-title="CANAIS",Jetsons - Webtv
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Jovem Pan News (JP News) (1080p) [Not 24/7]
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Jovem Pan News (Parab�lica)
-http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",JP Esportes
-https://ythls.armelin.one/channel/UCv-Nx8pSfG_LxbViMz14RWQ.m3u8
-#EXTINF:-1  group-title="CANAIS",JP NEWS
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1  group-title="CANAIS",JP NEWS 576p
-https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
-#EXTINF:-1  group-title="CANAIS",JP NEWS SD
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
-#EXTINF:-1  group-title="CANAIS",Kartoon Channel (Geo)
-https://live1003.delivery.roku.com/49577c8d-2acf-4e5c-8fab-02a49486485e/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Kid Mais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Kids Pang TV
-https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Kiss TV
-https://isaocorp.cloudecast.com/kisstv/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Kpop TV Play
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",KURIAKOS CINE
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Kuriakos Kids
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",La Saga (Geo)
-https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/dbc5515b-8b28-4482-8adb-da49305e45d1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Law and Crime (Geo)
-https://live342.delivery.roku.com/f0dd8e4f-4eb2-45f4-a914-aaa90f4cfebc/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",LFM TV
-https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
-#EXTINF:-1  group-title="CANAIS",LiveNOW from FOX (Geo)
-https://live1009.delivery.roku.com/0363e7eb-97c4-4675-93f5-9511a7145d68/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Loading - Web TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",LUCHA LIBRE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",M2O
-https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",MAIS UM
-https://stream.ichibantv.com:3230/hybrid/play.m3u8
-#EXTINF:-1  group-title="CANAIS",Malha  o Fast
-https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
-#EXTINF:-1  group-title="CANAIS",MAM NEWS WEB TV
-https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",MASTER SHOW TV
-https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",MASTER SHOW TV
-https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
-#EXTINF:-1  group-title="CANAIS",MASTER TV PR
-http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",MasterChef
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",Maverick Black Cinema alt
-https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",MAVTV Brasil
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1  group-title="CANAIS",Midsomer Murders alt
-https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Minist rio Infantil TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",MKK Web TV (720p) [Not 24/7]
-https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Moda Sertaneja
-https://hls.hunter.fm/modasertaneja/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1  group-title="CANAIS",Moonbug Kids (Geo)
-https://live941.delivery.roku.com/c9bebd24-db51-4b11-a274-208e1ffabeda/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Motorvision
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Motorvision | PT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
-#EXTINF:-1  group-title="CANAIS",MOVIE SPHERE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",MTV Are you the One?
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",MTV Biggest Pop
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",MTV Catfish
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",MTV Com o Ex
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",MTV Drag
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",MTV Jovens e M es
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",MTV Pluto TV
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
-#EXTINF:-1  group-title="CANAIS",MTV Shore
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",MTV Spankin' New
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Multishow HD [Alter]
-http://dzcdn.vood.top:80/hls/377243_.m3u8
-#EXTINF:-1  group-title="CANAIS",Mytime Movie Network (Geo)
-https://live928.delivery.roku.com/274b08cb-6c3f-4bbf-9caa-995c623c8706/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",MyTime Movies
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",National Sports Channel
-https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
-#EXTINF:-1  group-title="CANAIS",NBC News Now
-https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=9999457&ads.xumo_channelName=NBCNewsNow&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNow&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNow&ads.xumo_adsystem=mediatailor&ads.roku_rtid=aDcwAEQiNjH2DNocfALS&ads.roku_ads_kids_content=0&ads.roku_ads_tracking_id=2d50efd5-2148-592a-86d8-3d56a0143b92&ads.roku_ads_limit_tracking=1&ads.roku_ads_content_genre=news&ads.roku_ads_content_id=fc509fc922805196b5930e519de58fc8&ads.roku_ads_app_id=151908&ads.roku_ads_series_id=ROKU_ADS_SERIES_ID&ads.roku_ads_platform_type=web&ads.roku_ads_provider_id=nbcu&ads.roku_ads_season_id=ROKU_ADS_SEASON_ID&ads.roku_ads_content_rating=ROKU_ADS_CONTENT_RATING&ads.roku_ads_content_type=livefeed&ads.roku_cust_param_channelstore=us&ads.roku_cust_param_tags=ROKU_CONTENT_TAGS&ads.roku_cust_param_bmodel=bm1&ads.roku_cust_param_device_lang=ROKU_ADS_LOCALE&ads.roku_cust_param_unlocked=UNLOCKED&ads.roku_cust_param_kids=OTT_KIDS_CONTENT&is_lat=1&bmodel=bm1&content=fc509fc922805196b5930e519de58fc8&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=2d50efd5-2148-592a-86d8-3d56a0143b92&genre=news&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=nbcu&channel_id=151908&channelStore=us
-#EXTINF:-1  group-title="CANAIS",NBT
-https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",NCIS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1  group-title="CANAIS",NEW BRASIL
-https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
-#EXTINF:-1  group-title="CANAIS",NEW BRASIL FHD
-https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
-#EXTINF:-1  group-title="CANAIS",NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1  group-title="CANAIS",NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",NICK CL SSICO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-#EXTINF:-1  group-title="CANAIS",Nick Teen
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",Nickelodeon Rocket Power
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1  group-title="CANAIS",NOVA ERA TV
-http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",Nova Era TV (1080p) [Not 24/7]
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1  group-title="CANAIS",NOVA TV AGROTOUR
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Novelando HD
-https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Novelas Turcas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1  group-title="CANAIS",Novelissima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1  group-title="CANAIS",O Dia TV
-https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",O Homem que veio do C u
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",O Reino Infantil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",Ocko Star
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:-1  group-title="CANAIS",Oeste Sem Filtro- N   24h YouTube
-https://ythls.armelin.one/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
-#EXTINF:-1  group-title="CANAIS",ON FM TV
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",One Piece
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Oportunidades TV
-http://maistop.net:80/live/free/free/2.m3u8
-#EXTINF:-1  group-title="CANAIS",Oportunidades TV FHD
-http://maistop.net:80/live/free/free/1.m3u8
-#EXTINF:-1  group-title="CANAIS",OroTV (Geo)
-https://live950.delivery.roku.com/a4e6c8b5-5266-4543-9065-bb40f0c08128/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Os Arquivos do FBI
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Os Jetsons | Brasil
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",OTAKU SIGN TV
-https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
-#EXTINF:-1  group-title="CANAIS",Otaku Sign TV
-https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Pagode
-https://hls.hunter.fm/pagode/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
-#EXTINF:-1  group-title="CANAIS",Palmeiras TV
-https://ythls.armelin.one/channel/UCBKc-rPDivvwFiWdG-81wxw.m3u8
-#EXTINF:-1  group-title="CANAIS",Paramount Network FHD
-http://186.226.215.132:80/carlos123/carlos123/501
-#EXTINF:-1  group-title="CANAIS",Paran� Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1  group-title="CANAIS",PAW Patrol Patrulha Canina
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",PBC TV
-https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",People Are Awesome
-https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Pet Lovers TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Pisadinha
-https://hls.hunter.fm/pisadinha/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
-#EXTINF:-1  group-title="CANAIS",PIXTV HD
-https://cdn-2.nxplay.com.br/PIX_TV/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Place and Spaces (Geo)
-https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/561f1bfe-04c8-4109-978e-b5f17483d2f5/live.m3u8
-#EXTINF:-1  group-title="CANAIS",PLAN TV
-https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Play TV
-https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Play TV (720p)
-https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",PlayTV
-https://isaocorp.cloudecast.com/playtv/mono.m3u8
-#EXTINF:-1  group-title="CANAIS",PLENA TV
-https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Pluto TV Adrenalina Freezone
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Animais
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Anime A  o
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Canal UOL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Cl ssicos
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Com dia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Com dia Rom ntica
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Crime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Familia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Inspira  o
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Romance
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f84953a8-0c9c-11ec-8983-0242ac110003&sid=f84953a8-0c9c-11ec-8983-0242ac110003&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Sucessos
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cine Terror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=aa3491bc-d231-4643-b51b-993c04890e52&clientModelNumber=na&deviceDNT=false&deviceId=aa3491bc-d231-4643-b51b-993c04890e52&deviceLat=-22.8970&deviceLon=-47.0444&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=57.0.2987.132&marketingRegion=BR&serverSideAds=true&sessionID=75189c32-4fbb-11eb-a8d7-0242ac110002&sid=75189c32-4fbb-11eb-a8d7-0242ac110002&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Com dia
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Cozinha
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1  group-title="CANAIS",Pluto TV Document rios
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",Pluto TV Esportes
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1  group-title="CANAIS",Pluto TV Fic  o Cient fica
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Filmelier
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Filmes Acao
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=aa3491bc-d231-4643-b51b-993c04890e52&clientModelNumber=na&deviceDNT=false&deviceId=aa3491bc-d231-4643-b51b-993c04890e52&deviceLat=-22.8970&deviceLon=-47.0444&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=57.0.2987.132&marketingRegion=BR&serverSideAds=true&sessionID=678bad8e-514a-11eb-a8d7-0242ac110002&sid=678bad8e-514a-11eb-a8d7-0242ac110002&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Filmes Nacionais
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Gaming por Ubisoft
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1  group-title="CANAIS",Pluto TV Geek e Tech
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto tv Investiga  o
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f85e9ccf-0cae-11ec-8588-0242ac110003&sid=f85e9ccf-0cae-11ec-8588-0242ac110003&userId=
-#EXTINF:-1  group-title="CANAIS",Pluto TV Karaok  por Stingray
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1  group-title="CANAIS",Pluto TV KFood
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",Pluto TV Minha Obsess o Favorita
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",Pluto TV Mist rios
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=469630a0-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6159be-c98a-4ef4-89d8-635378b7761d&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",Pluto TV Quebrando o Tabu
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f5669a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Record News
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV S ries A  o
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1  group-title="CANAIS",Pluto TV S ries Com dia
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1  group-title="CANAIS",Pluto TV S ries Criminais
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1  group-title="CANAIS",Pluto TV S ries Drama
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f060d84e01740008d7421f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-#EXTINF:-1  group-title="CANAIS",Pluto TV S ries Sci-Fi
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1  group-title="CANAIS",Pluto TV Series Acao
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Shows por Stingray
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d759160-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59dd21f-38ed-446d-8348-e9e4b6640131&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",Pluto TV Turbo
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Pluto TV Vida Real
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",PONTV
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Poop TV
-https://stream.ichibantv.com:3522/hybrid/play.m3u8
-#EXTINF:-1  group-title="CANAIS",Pop
-https://hls.hunter.fm/pop/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1  group-title="CANAIS",Pop 2
-https://hls.hunter.fm/pop2k/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1  group-title="CANAIS",POP PEGAJOSO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1  group-title="CANAIS",PORTA DOS FUNDOS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",PORTAL FOXMIX
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Power Rangers YT 24h (teste)
-https://ythls.armelin.one/channel/UCE3_4WG166NcyQPcRtgGWkQ.m3u8
-#EXTINF:-1  group-title="CANAIS",POWER TV
-http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1  group-title="CANAIS",Premiere 4 HD [Alter]
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
-#EXTINF:-1  group-title="CANAIS",Premiere Clubes HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
-#EXTINF:-1  group-title="CANAIS",Primer TV
-http://177.74.174.57:8080/hls/primertv.m3u8
-#EXTINF:-1  group-title="CANAIS",PRIMER TV
-http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Pronto-socorro: Hist rias De Emerg ncia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Q TAL CHANNEL
-https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rakuten Document rios | portugu s e ingl s
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Rakuten Fam lia
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Rakuten Viki alt
-https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",RBATV (720p)
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",RCN M s recheck
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Receita Fast HD
-https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
-#EXTINF:-1  group-title="CANAIS",Record News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1  group-title="CANAIS",Record News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
-#EXTINF:-1  group-title="CANAIS",RecordTV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",RecordTV
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="CANAIS",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
-#EXTINF:-1  group-title="CANAIS",Redbox Romance (Geo)
-https://live478.delivery.roku.com/6d58dad3-5bdb-4a19-9a0e-b8085b0fb182/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede Brasil - TV Marajoara (PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede Brasil de Comunica  o (720p) [Not 24/7]
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede Brasil Oficial YT
-https://ythls.armelin.one/channel/UCubxEhRi56_V4_eTzzcFwkA.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede Clone - WebTV
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede CNT
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZesaflEnFih4nFWIp20LhZ-A
-#EXTINF:-1  group-title="CANAIS",Rede Fam�lia
-https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede IBTV
-https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede Mais (720p)
-https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",REDE METROPOLITANA
-https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",REDE MINAS
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede Mundo d Televis o
-https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede QDM
-https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede QDM (360p)
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede S culo 21 (1080p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",REDE SPTV
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede Sul
-https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede TV Sul
-https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede TV! Pampa (720p) [Not 24/7]
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede UTV
-https://5cf4a2c2512a2.streamlock.net/8188/8188/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede UTV
-https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede UTV (720p)
-https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",RedeTV!
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Resumo da  pera
-https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
-#EXTINF:-1  group-title="CANAIS",Resumo da Opera
-https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
-#EXTINF:-1  group-title="CANAIS",Retr  Cartoon (480p) [Not 24/7]
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Retr� TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Revry Brasil
-http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",RIC TV Curitiba YT
-https://ythls.armelin.one/channel/UCBiZg7ojHPU8ShY7s8xQ6bg.m3u8
-#EXTINF:-1  group-title="CANAIS",RIT TV
-https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
-#EXTINF:-1  group-title="CANAIS",RIT TV YT
-https://ythls.armelin.one/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
-#EXTINF:-1  group-title="CANAIS",Rock
-https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1  group-title="CANAIS",Rock TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1  group-title="CANAIS",RPC Curitiba HD
-http://15.235.15.230:14487/
-#EXTINF:-1  group-title="CANAIS",RPC TV Maringa HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
-#EXTINF:-1  group-title="CANAIS",RS News WebTV 1
-https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",RT Documentary Channel
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",RT en espa�ol
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",RTL (It�lia)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1  group-title="CANAIS",RTN
-https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",RTV CANAL 38
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",RTVE
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1  group-title="CANAIS",RU TV
-https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Rugrats
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  group-title="CANAIS",Runtime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1  group-title="CANAIS",Runtime A  o HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1  group-title="CANAIS",Runtime Cine Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1  group-title="CANAIS",Runtime Com dia HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1  group-title="CANAIS",Runtime Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1  group-title="CANAIS",Runtime Espanol alt
-https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218
-#EXTINF:-1  group-title="CANAIS",Runtime Fam lia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1  group-title="CANAIS",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1  group-title="CANAIS",Runtime TV e Filmes HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1  group-title="CANAIS",S o Paulo FC
-https://ythls.armelin.one/channel/UCX3zTAsEoZ61rQMYb_08Tow.m3u8
-#EXTINF:-1  group-title="CANAIS",Samuel Goldwyn Classic
-https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Samuel Goldwyn-Films alt
-https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",SANDEGI TV
-https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Santa Cecilia TV (1080p) [Not 24/7]
-http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",SAO RAIMUNDO TV
-https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",SBT 480p
-https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/80b7acd5-bf57-49aa-93d7-c1e82fb9320e/2.m3u8
-#EXTINF:-1  group-title="CANAIS",Scripps News Alt
-https://linear-78.frequency.stream/dist/roku/78/hls/master/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Sert o TV (720p)
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Sertanejo
-https://hls.hunter.fm/sertanejo/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
-#EXTINF:-1  group-title="CANAIS",SescTV HD
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index.m3u8
-#EXTINF:-1  group-title="CANAIS",Seven TV
-https://video01.kshost.com.br/aubrey3291/aubrey3291/playlist.m3u8?t=1698888926
-#EXTINF:-1  group-title="CANAIS",SIC (apenas em Portugal)
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1  group-title="CANAIS",Sic TV
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV 
-#EXTINF:-1  group-title="CANAIS",SIC TV  Local - Record Rond�nia
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1  group-title="CANAIS",Sony Canal Comedias
-https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1  group-title="CANAIS",Sony Canal Comedias
-https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Sony Canal Competencias
-https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1  group-title="CANAIS",Sony Canal Competencias
-https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Sony Canal Novelas
-https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Sony Novelas | LG
-https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Sony One Classics
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",SONY ONE EMOCOES
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",SONY ONE SHARK TANK
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Sou TV.
-https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Soul Cine Clube
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Spark TV
-https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Spark TV - Luz & Amor
-https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/794fb6ba-7f23-4b9e-b727-d72297c1e910/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Spark TV alt
-https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Start - WebTV
-https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",STUDIO TV
-https://streamingtv.ddoti.com.br/hls/stream.m3u8
-#EXTINF:-1  group-title="CANAIS",Super Simple Songs alt
-https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Swerve Combat (Geo)
-https://live400.delivery.roku.com/854fbc82-9a73-4894-bec6-8361359319b7/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Swerve Combat alt
-https://linear-253.frequency.stream/dist/roku/253/hls/master/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Talking Tom & Amigos YT
-https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
-#EXTINF:-1  group-title="CANAIS",Tastemade
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9784ae40-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c4b7db2-88f3-4c00-8114-c9f5bcca8459&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",TCM 10
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1  group-title="CANAIS",Tela Viva (360p)
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Tela Viva TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TELE WEB TV
-https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Telecine Premium HD [Alter]
-http://fzcdn.vood.top:80/hls/633_.m3u8
-#EXTINF:-1  group-title="CANAIS",TELETUBBIES
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",TELEVISA
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Tenda TV
-https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",The Jack Hanna Channel (Geo)
-https://live986.delivery.roku.com/5292d9e3-8dfb-4f84-808d-7908ce8b411d/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",The K-pop (Youtube)
-https://ythls.armelin.one/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-#EXTINF:-1  group-title="CANAIS",The Pet Collective (Geo)
-https://live938.delivery.roku.com/50bdff60-a5ff-4fa9-8914-e17401dbc4d5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",This Old House alt
-https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Ticaracaticast
-https://ythls.armelin.one/channel/UC9LH3xFOJCCp2VFRcZjNdRQ.m3u8
-#EXTINF:-1  group-title="CANAIS",TNT Sports N   24h
-https://ythls.armelin.one/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
-#EXTINF:-1  group-title="CANAIS",Tokusato
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
-#EXTINF:-1  group-title="CANAIS",TOP Mix TV
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TOP TV
-https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Tropical
-https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-#EXTINF:-1  group-title="CANAIS",TV 538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:-1  group-title="CANAIS",TV A Critica HD
-https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
-#EXTINF:-1  group-title="CANAIS",TV A Folha
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV A7 CALDAS NOVAS
-https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Aldeia (720p)
-https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Alian a Catarinense (720p)
-https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Alternativa
-https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Alternativa (410p)
-https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV ALVORADA SERTANEJA
-http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Aparecida HD
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TV Aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TV Assembl ia Cear  (720p)
-https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Assembl�ia Macei�
-https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Beltr o (1080p)
-https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Birigui
-https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Birigui (320p)
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Boqueir o (720p)
-https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV BRASIL
-https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TV Brasil  - Joinville
-https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Brasil  Web
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Brasil Central
-https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Brasil Central - Cultura (GO)
-https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Brasil Hits
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Brusque (720p)
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Brusque (SC)
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV C mara (1080p)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1  group-title="CANAIS",TV C mara 2 (1080p) [Not 24/7]
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Camara De Deputados
-https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TV Candid s
-https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Candid s (1080p)
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Candid s (1080p)
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CAPITAL TERESINA
-https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CEARA
-https://ythls.armelin.one/channel/UCWiwMQn0k84wn0952b5kcKw.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CENTRO SUL
-https://novo.bitstreaming.info:443/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Channel Network
-https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CIDADE CANAL 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Cidade Canal 9 (720p) [Not 24/7]
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Cidade de Petr polis (1080p) [Not 24/7]
-https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Cidade RJ
-https://stream.ichibantv.com:3827/stream/play.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Cidade Verde
-https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CINEC
-https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Cinec (240p) [Not 24/7]
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Clube
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CN AGITOS
-http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CN Agitos (360p)
-https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CNB AMERICAN
-https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CNB ORLANDO
-https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
-#EXTINF:-1  group-title="CANAIS",TV COM DF
-https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
-#EXTINF:-1  group-title="CANAIS",TV COM MACEI�
-https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV COM SANTOS
-https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV CORDEIRO
-https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Correio- N   24h
-https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Cultura
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",TV Cultura - TV Futuro (RJ)
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Cultura - TV Guar� (MA)
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
-#EXTINF:-1  group-title="CANAIS",TV Cultura Brasil
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Cultura RN FHD
-https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TV Curu a (360p)
-https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV da Gente
-https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV deoNews (720p) [Not 24/7]
-https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Destak - WebTV
-https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Destak (360p)
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1  group-title="CANAIS",TV DIARIO DO BRASIL TV PREVE
-https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Difusora Leste (1080p)
-https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Digital Birigu  (640p)
-http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Di�rio do Sert�o
-https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV DO POVO
-https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Fala Litoral
-https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
-#EXTINF:-1  group-title="CANAIS",TV GALEGA
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV GALLO
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Gallo - WebTV
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Gazeta MA SD
-https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TV GAZETA NORTE MINEIRA
-https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Gospa Mira YouTube
-https://ythls.armelin.one/channel/UC6oZlH7_E0fT90pblY7rX4g.m3u8
-#EXTINF:-1  group-title="CANAIS",TV gospel
-https://5cf4a2c2512a2.streamlock.net/8036/8036/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Gr o Par
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TV Gramado
-https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1  group-title="CANAIS",TV GRANDE NATAL
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Grao Par  (720p)
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Guar  (720p) [Not 24/7]
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Guarapar  (720p)
-http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Imaculada
-https://caikron.com.br:19360/tvmi/tvmi.m3u8
-#EXTINF:-1  group-title="CANAIS",TV INTERATIVA
-http://srv2.zcast.com.br/tvinterativa/tvinterativa/playlist-480p.m3u8
-#EXTINF:-1  group-title="CANAIS",TV ITAPETININGA
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Japi
-https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Jornal SBT YT
-https://ythls.armelin.one/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
-#EXTINF:-1  group-title="CANAIS",TV JUNDIAI HOJE
-https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Justi a
-https://livestream.zazerconer.workers.dev/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
-#EXTINF:-1  group-title="CANAIS",TV LIBERDADE
-https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Macei  (360p)
-https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Mais
-https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Mais Brasil
-https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Mais Maric  (1080p)
-https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV MAR
-https://virtues.es:1936/tvmar/ngrp:tvmar_all/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV MAX
-https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV MAX (720p)
-https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Metropole (720p) [Not 24/7]
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV METROPOLITANA RIO
-https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Mirante HD
-http://15.235.15.230:14499/MANOTV
-#EXTINF:-1  group-title="CANAIS",TV Mon
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV NBN
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Novelas Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
-#EXTINF:-1  group-title="CANAIS",TV Novelas Romance
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
-#EXTINF:-1  group-title="CANAIS",TV Omindar  (360p)
-https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV OMINDARE
-https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Os rio News (480p)
-https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV OURO NEGRO
-https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Padre Cicero (720p)
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Pai Eterno (480p)
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Pai Eterno (480p) [Not 24/7]
-https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Pampa - RedeTV! RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Paraense
-https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Paran  Turismo
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-#EXTINF:-1  group-title="CANAIS",TV POCOS
-https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV POTENGI
-https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Tv Recanto da F
-https://stmv1.srvif.com/2022/2022/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Recon
-https://acesso.ecast.site:3862/hybrid/play.m3u8
-#EXTINF:-1  group-title="CANAIS",TV RIO GRANDE
-https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV RIO MADEIRA
-https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Rio Preto
-https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Santa Cec�lia (SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1  group-title="CANAIS",TV SDB
-https://5a0c3936c25c8.streamlock.net/8094/8094/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV SERIES 1 AS PANTERAS
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Serra Dourada
-https://livestream.zazerconer.workers.dev/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Serra Dourada SBT YT
-https://ythls.armelin.one/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
-#EXTINF:-1  group-title="CANAIS",TV SETE LAGOAS
-https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Sim Cachoeiro (720p)
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV SIM Colatina
-https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV SIM S o Mateus
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Sjid (BA)
-https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV SOL COMUNIDADE
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Sonata
-https://video01.kshost.com.br:4443/tiago2001/tiago2001/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV STA CECILIA
-https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV SUL BAHIA
-https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Sul Bahia (320p)
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV SUL DE MINAS
-https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Telemundo Telenovelas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
-#EXTINF:-1  group-title="CANAIS",TV Telenovelas
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1  group-title="CANAIS",TV TSPB
-https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Tudo BH (720p)
-https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV UFG (720p) [Not 24/7]
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV UFSC
-https://tvaovivo.sites.ufsc.br/hls/1.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Uni o Fortaleza
-https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Uni o Rio Branco
-https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Vi osa (480p)
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Vianney
-https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Vila Real (720p)
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Vit ria PE
-https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Web Camocim (720p)
-https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Web Paran  (720p)
-https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV Zoom (720p)
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TV5 Mond
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1  group-title="CANAIS",TV5 Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1  group-title="CANAIS",TVC
-https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3u8
-#EXTINF:-1  group-title="CANAIS",TVCine Edition
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8087
-#EXTINF:-1  group-title="CANAIS",TVCine Emotion
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286357
-#EXTINF:-1  group-title="CANAIS",TVCOM DF (360p)
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1  group-title="CANAIS",TVE Bahia HD
-http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
-#EXTINF:-1  group-title="CANAIS",TVE ES
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TVE ES YT
-https://ythls.armelin.one/channel/UC94kyY3rSw4j4LjAd8tUBBw.m3u8
-#EXTINF:-1  group-title="CANAIS",TVE MS
-http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TVE RS (1080p)
-https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TVE RS (1080p) [Not 24/7]
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TVi  frica
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TVi Fic  o
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TVi Realitys
-https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",TVI VILA IMPERIAL
-https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TVN BRASIL
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TVN Brasil (720p) [Not 24/7]
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TVZYN
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",TYT GO (Geo)
-https://live868.delivery.roku.com/834f9192-0171-44c2-9fc2-730e7ee334b2/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",UFC Fightpass
-http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/250107
-#EXTINF:-1  group-title="CANAIS",UNISUL TV
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
-#EXTINF:-1  group-title="CANAIS",UNISUL TV (720p)
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-#EXTINF:-1  group-title="CANAIS",UniTV Porto Alegre (480p)
-http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF:-1  group-title="CANAIS",UOL Esporte N   24h
-https://ythls.armelin.one/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
-#EXTINF:-1  group-title="CANAIS",V nus PodCast
-https://ythls.armelin.one/channel/UCTBhsXf_XRxk8w4rMj6WBOA.m3u8
-#EXTINF:-1  group-title="CANAIS",Vasco TV
-https://ythls.armelin.one/channel/UCZD5qcen7lbLPFTjfvdLFcw.m3u8
-#EXTINF:-1  group-title="CANAIS",VClassic TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
-#EXTINF:-1  group-title="CANAIS",VEVO Hip Hop (Geo)
-https://live882.delivery.roku.com/cf2b079d-1827-4019-a02c-a68bfda91f2b/t2-origin/out/v1/live.m3u8
-#EXTINF:-1  group-title="CANAIS",Via Morena
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Viajando pelo Brasil
-http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
-#EXTINF:-1  group-title="CANAIS",Vila TV
-https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Vintage TV
-https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",VIRTUAL TV
-https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",VIVA WEB TV
-https://video02.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Vivax TV
-https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",VRT Channel
-https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
-#EXTINF:-1  group-title="CANAIS",VTV SBT HD YT
-https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
-#EXTINF:-1  group-title="CANAIS",VV8 TV
-https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",VV8 TV
-https://video01.kshost.com.br:4443/seap8272/seap8272/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Warner Channel HD
-http://gzcdn.vood.top:80/hls/749_.m3u8
-#EXTINF:-1  group-title="CANAIS",WeatherNation TV alt (Geo)
-https://weathernation-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Web TV  gua Boa (720p)
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",WEB TV AGUA BOA
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
-#EXTINF:-1  group-title="CANAIS",Web TV Campe o De Tudo
-https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",WEB TV ENTORNO SUL
-http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",WEB TV PROGRESSO
-https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w73777379.m3u8
-#EXTINF:-1  group-title="CANAIS",WEB TV PROGRESSO
-https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
-#EXTINF:-1  group-title="CANAIS",Woohoo Surf
-https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="CANAIS",WORDING TV
-https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
-#EXTINF:-1  group-title="CANAIS",World Poker Tour
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Wtj TV Minas
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",WTV Brasil
-https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",WWE Youtube
-https://ythls.armelin.one/channel/UCJ5v_MCY6GNUBTO8-D3XoAg.m3u8
-#EXTINF:-1  group-title="CANAIS",www.listaiptv.gratis
-https://lib.bz/video/site.mp4
-#EXTINF:-1  group-title="CANAIS",www.tvonline.global
-https://lib.bz/video/site_gerou.mp4
-#EXTINF:-1  group-title="CANAIS",XR HEALTH BRASIL
-http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-#EXTINF:-1  group-title="CANAIS",Younger
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  group-title="CANAIS",Yp  TV
-https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+#EXTINF:-1 tvg-name="[BR] A&E FHD" group-title="BRAZIL",[BR] A&E FHD
+http://supersonictv.live:8080/812493/376688/84935
+#EXTINF:-1 tvg-name="[BR] Animal Planet FHD" group-title="BRAZIL",[BR] Animal Planet FHD
+http://supersonictv.live:8080/812493/376688/84936
+#EXTINF:-1 tvg-name="[BR] Arte 1 FHD" group-title="BRAZIL",[BR] Arte 1 FHD
+http://supersonictv.live:8080/812493/376688/84937
+#EXTINF:-1 tvg-name="[BR] AXN FHD" group-title="BRAZIL",[BR] AXN FHD
+http://supersonictv.live:8080/812493/376688/84938
+#EXTINF:-1 tvg-name="[BR] Baby FHD" group-title="BRAZIL",[BR] Baby FHD
+http://supersonictv.live:8080/812493/376688/84939
+#EXTINF:-1 tvg-name="[BR] Band FHD" group-title="BRAZIL",[BR] Band FHD
+http://supersonictv.live:8080/812493/376688/84940
+#EXTINF:-1 tvg-name="[BR] Band News FHD" group-title="BRAZIL",[BR] Band News FHD
+http://supersonictv.live:8080/812493/376688/84941
+#EXTINF:-1 tvg-name="[BR] Band Sports FHD" group-title="BRAZIL",[BR] Band Sports FHD
+http://supersonictv.live:8080/812493/376688/84942
+#EXTINF:-1 tvg-name="[BR] BIS FHD" group-title="BRAZIL",[BR] BIS FHD
+http://supersonictv.live:8080/812493/376688/84943
+#EXTINF:-1 tvg-name="[BR] Boomerang FHD" group-title="BRAZIL",[BR] Boomerang FHD
+http://supersonictv.live:8080/812493/376688/84944
+#EXTINF:-1 tvg-name="[BR] Canal Brasil FHD" group-title="BRAZIL",[BR] Canal Brasil FHD
+http://supersonictv.live:8080/812493/376688/84945
+#EXTINF:-1 tvg-name="[BR] Cartoon Network FHD" group-title="BRAZIL",[BR] Cartoon Network FHD
+http://supersonictv.live:8080/812493/376688/84946
+#EXTINF:-1 tvg-name="[BR] Chef TV FHD" group-title="BRAZIL",[BR] Chef TV FHD
+http://supersonictv.live:8080/812493/376688/84947
+#EXTINF:-1 tvg-name="[BR] Cinemax FHD" group-title="BRAZIL",[BR] Cinemax FHD
+http://supersonictv.live:8080/812493/376688/84948
+#EXTINF:-1 tvg-name="[BR] Cinemax HD" group-title="BRAZIL",[BR] Cinemax HD
+http://supersonictv.live:8080/812493/376688/84949
+#EXTINF:-1 tvg-name="[BR] CNN Brasil FHD" group-title="BRAZIL",[BR] CNN Brasil FHD
+http://supersonictv.live:8080/812493/376688/84950
+#EXTINF:-1 tvg-name="[BR] CNN Internacional FHD" group-title="BRAZIL",[BR] CNN Internacional FHD
+http://supersonictv.live:8080/812493/376688/84952
+#EXTINF:-1 tvg-name="[BR] Combate FHD" group-title="BRAZIL",[BR] Combate FHD
+http://supersonictv.live:8080/812493/376688/84953
+#EXTINF:-1 tvg-name="[BR] Comedy Central FHD" group-title="BRAZIL",[BR] Comedy Central FHD
+http://supersonictv.live:8080/812493/376688/84954
+#EXTINF:-1 tvg-name="[BR] COPA CATARINENSE *" group-title="BRAZIL",[BR] COPA CATARINENSE *
+http://supersonictv.live:8080/812493/376688/84955
+#EXTINF:-1 tvg-name="[BR] COPA CATARINENSE 2 *" group-title="BRAZIL",[BR] COPA CATARINENSE 2 *
+http://supersonictv.live:8080/812493/376688/84956
+#EXTINF:-1 tvg-name="[BR] COPA CATARINENSE 2 HD *" group-title="BRAZIL",[BR] COPA CATARINENSE 2 HD *
+http://supersonictv.live:8080/812493/376688/84957
+#EXTINF:-1 tvg-name="[BR] COPA CATARINENSE HD *" group-title="BRAZIL",[BR] COPA CATARINENSE HD *
+http://supersonictv.live:8080/812493/376688/84958
+#EXTINF:-1 tvg-name="[BR] COPA DO NORDESTE *" group-title="BRAZIL",[BR] COPA DO NORDESTE *
+http://supersonictv.live:8080/812493/376688/84959
+#EXTINF:-1 tvg-name="[BR] COPA DO NORDESTE 2 *" group-title="BRAZIL",[BR] COPA DO NORDESTE 2 *
+http://supersonictv.live:8080/812493/376688/84960
+#EXTINF:-1 tvg-name="[BR] COPA DO NORDESTE 2 HD *" group-title="BRAZIL",[BR] COPA DO NORDESTE 2 HD *
+http://supersonictv.live:8080/812493/376688/84961
+#EXTINF:-1 tvg-name="[BR] COPA DO NORDESTE HD *" group-title="BRAZIL",[BR] COPA DO NORDESTE HD *
+http://supersonictv.live:8080/812493/376688/84962
+#EXTINF:-1 tvg-name="[BR] Curta! FHD" group-title="BRAZIL",[BR] Curta! FHD
+http://supersonictv.live:8080/812493/376688/84963
+#EXTINF:-1 tvg-name="[BR] Discovery Channel FHD" group-title="BRAZIL",[BR] Discovery Channel FHD
+http://supersonictv.live:8080/812493/376688/84966
+#EXTINF:-1 tvg-name="[BR] Discovery Home & Health FHD" group-title="BRAZIL",[BR] Discovery Home & Health FHD
+http://supersonictv.live:8080/812493/376688/84967
+#EXTINF:-1 tvg-name="[BR] Discovery ID FHD" group-title="BRAZIL",[BR] Discovery ID FHD
+http://supersonictv.live:8080/812493/376688/84968
+#EXTINF:-1 tvg-name="[BR] Discovery Kids FHD" group-title="BRAZIL",[BR] Discovery Kids FHD
+http://supersonictv.live:8080/812493/376688/84969
+#EXTINF:-1 tvg-name="[BR] Discovery Science FHD" group-title="BRAZIL",[BR] Discovery Science FHD
+http://supersonictv.live:8080/812493/376688/84970
+#EXTINF:-1 tvg-name="[BR] Discovery Theather FHD" group-title="BRAZIL",[BR] Discovery Theather FHD
+http://supersonictv.live:8080/812493/376688/84971
+#EXTINF:-1 tvg-name="[BR] Discovery Turbo FHD" group-title="BRAZIL",[BR] Discovery Turbo FHD
+http://supersonictv.live:8080/812493/376688/84972
+#EXTINF:-1 tvg-name="[BR] Discovery World FHD" group-title="BRAZIL",[BR] Discovery World FHD
+http://supersonictv.live:8080/812493/376688/84973
+#EXTINF:-1 tvg-name="[BR] Disney Channel FHD" group-title="BRAZIL",[BR] Disney Channel FHD
+http://supersonictv.live:8080/812493/376688/84974
+#EXTINF:-1 tvg-name="[BR] Disney JR FHD" group-title="BRAZIL",[BR] Disney JR FHD
+http://supersonictv.live:8080/812493/376688/84975
+#EXTINF:-1 tvg-name="[BR] Disney XD FHD" group-title="BRAZIL",[BR] Disney XD FHD
+http://supersonictv.live:8080/812493/376688/84976
+#EXTINF:-1 tvg-name="[BR] E! FHD" group-title="BRAZIL",[BR] E! FHD
+http://supersonictv.live:8080/812493/376688/84977
+#EXTINF:-1 tvg-name="[BR] ESPN 2 FHD" group-title="BRAZIL",[BR] ESPN 2 FHD
+http://supersonictv.live:8080/812493/376688/84978
+#EXTINF:-1 tvg-name="[BR] ESPN Brasil FHD" group-title="BRAZIL",[BR] ESPN Brasil FHD
+http://supersonictv.live:8080/812493/376688/84979
+#EXTINF:-1 tvg-name="[BR] ESPN Extra FHD" group-title="BRAZIL",[BR] ESPN Extra FHD
+http://supersonictv.live:8080/812493/376688/84980
+#EXTINF:-1 tvg-name="[BR] ESPN FHD" group-title="BRAZIL",[BR] ESPN FHD
+http://supersonictv.live:8080/812493/376688/84981
+#EXTINF:-1 tvg-name="[BR] ESPORTE INTERATIVO *" group-title="BRAZIL",[BR] ESPORTE INTERATIVO *
+http://supersonictv.live:8080/812493/376688/84982
+#EXTINF:-1 tvg-name="[BR] Fish TV FHD" group-title="BRAZIL",[BR] Fish TV FHD
+http://supersonictv.live:8080/812493/376688/84983
+#EXTINF:-1 tvg-name="[BR] FlaTV TESTE" group-title="BRAZIL",[BR] FlaTV TESTE
+http://supersonictv.live:8080/812493/376688/84984
+#EXTINF:-1 tvg-name="[BR] Food Network FHD" group-title="BRAZIL",[BR] Food Network FHD
+http://supersonictv.live:8080/812493/376688/84985
+#EXTINF:-1 tvg-name="[BR] FOX FHD" group-title="BRAZIL",[BR] FOX FHD
+http://supersonictv.live:8080/812493/376688/84986
+#EXTINF:-1 tvg-name="[BR] Fox Life FHD" group-title="BRAZIL",[BR] Fox Life FHD
+http://supersonictv.live:8080/812493/376688/84987
+#EXTINF:-1 tvg-name="[BR] Fox News FHD" group-title="BRAZIL",[BR] Fox News FHD
+http://supersonictv.live:8080/812493/376688/84988
+#EXTINF:-1 tvg-name="[BR] Fox Premium 1 FHD" group-title="BRAZIL",[BR] Fox Premium 1 FHD
+http://supersonictv.live:8080/812493/376688/84989
+#EXTINF:-1 tvg-name="[BR] Fox Premium 2 FHD" group-title="BRAZIL",[BR] Fox Premium 2 FHD
+http://supersonictv.live:8080/812493/376688/84990
+#EXTINF:-1 tvg-name="[BR] Fox Sport HD" group-title="BRAZIL",[BR] Fox Sport HD
+http://supersonictv.live:8080/812493/376688/84991
+#EXTINF:-1 tvg-name="[BR] Fox Sports 2 FHD" group-title="BRAZIL",[BR] Fox Sports 2 FHD
+http://supersonictv.live:8080/812493/376688/84992
+#EXTINF:-1 tvg-name="[BR] Fox Sports FHD" group-title="BRAZIL",[BR] Fox Sports FHD
+http://supersonictv.live:8080/812493/376688/84993
+#EXTINF:-1 tvg-name="[BR] Fox Sports SD" group-title="BRAZIL",[BR] Fox Sports SD
+http://supersonictv.live:8080/812493/376688/84994
+#EXTINF:-1 tvg-name="[BR] FX FHD" group-title="BRAZIL",[BR] FX FHD
+http://supersonictv.live:8080/812493/376688/84995
+#EXTINF:-1 tvg-name="[BR] Globo News FHD" group-title="BRAZIL",[BR] Globo News FHD
+http://supersonictv.live:8080/812493/376688/85005
+#EXTINF:-1 tvg-name="[BR] GLOBO TV TEM BAURU SD#" group-title="BRAZIL",[BR] GLOBO TV TEM BAURU SD#
+http://supersonictv.live:8080/812493/376688/85024
+#EXTINF:-1 tvg-name="[BR] Gloob FHD" group-title="BRAZIL",[BR] Gloob FHD
+http://supersonictv.live:8080/812493/376688/85030
+#EXTINF:-1 tvg-name="[BR] Gloobinho FHD" group-title="BRAZIL",[BR] Gloobinho FHD
+http://supersonictv.live:8080/812493/376688/85031
+#EXTINF:-1 tvg-name="[BR] GNT FHD" group-title="BRAZIL",[BR] GNT FHD
+http://supersonictv.live:8080/812493/376688/85032
+#EXTINF:-1 tvg-name="[BR] H2 FHD" group-title="BRAZIL",[BR] H2 FHD
+http://supersonictv.live:8080/812493/376688/85033
+#EXTINF:-1 tvg-name="[BR] HBO 2 FHD" group-title="BRAZIL",[BR] HBO 2 FHD
+http://supersonictv.live:8080/812493/376688/85034
+#EXTINF:-1 tvg-name="[BR] HBO Family FHD" group-title="BRAZIL",[BR] HBO Family FHD
+http://supersonictv.live:8080/812493/376688/85035
+#EXTINF:-1 tvg-name="[BR] HBO FHD" group-title="BRAZIL",[BR] HBO FHD
+http://supersonictv.live:8080/812493/376688/85036
+#EXTINF:-1 tvg-name="[BR] HBO Mundi FHD" group-title="BRAZIL",[BR] HBO Mundi FHD
+http://supersonictv.live:8080/812493/376688/85037
+#EXTINF:-1 tvg-name="[BR] HBO Plus FHD" group-title="BRAZIL",[BR] HBO Plus FHD
+http://supersonictv.live:8080/812493/376688/85038
+#EXTINF:-1 tvg-name="[BR] HBO Pop FHD" group-title="BRAZIL",[BR] HBO Pop FHD
+http://supersonictv.live:8080/812493/376688/85039
+#EXTINF:-1 tvg-name="[BR] HBO Signature FHD" group-title="BRAZIL",[BR] HBO Signature FHD
+http://supersonictv.live:8080/812493/376688/85040
+#EXTINF:-1 tvg-name="[BR] HBO Xtreme FHD" group-title="BRAZIL",[BR] HBO Xtreme FHD
+http://supersonictv.live:8080/812493/376688/85041
+#EXTINF:-1 tvg-name="[BR] HGTV FHD" group-title="BRAZIL",[BR] HGTV FHD
+http://supersonictv.live:8080/812493/376688/85042
+#EXTINF:-1 tvg-name="[BR] i SAT FHD" group-title="BRAZIL",[BR] i SAT FHD
+http://supersonictv.live:8080/812493/376688/85043
+#EXTINF:-1 tvg-name="[BR] Inter TV dos Vales FHD" group-title="BRAZIL",[BR] Inter TV dos Vales FHD
+http://supersonictv.live:8080/812493/376688/85044
+#EXTINF:-1 tvg-name="[BR] Lifetime FHD" group-title="BRAZIL",[BR] Lifetime FHD
+http://supersonictv.live:8080/812493/376688/85045
+#EXTINF:-1 tvg-name="[BR] Mais Globosat FHD" group-title="BRAZIL",[BR] Mais Globosat FHD
+http://supersonictv.live:8080/812493/376688/85046
+#EXTINF:-1 tvg-name="[BR] Megapix FHD" group-title="BRAZIL",[BR] Megapix FHD
+http://supersonictv.live:8080/812493/376688/85047
+#EXTINF:-1 tvg-name="[BR] MTV FHD" group-title="BRAZIL",[BR] MTV FHD
+http://supersonictv.live:8080/812493/376688/85048
+#EXTINF:-1 tvg-name="[BR] MTV HD" group-title="BRAZIL",[BR] MTV HD
+http://supersonictv.live:8080/812493/376688/85049
+#EXTINF:-1 tvg-name="[BR] Multishow FHD" group-title="BRAZIL",[BR] Multishow FHD
+http://supersonictv.live:8080/812493/376688/85050
+#EXTINF:-1 tvg-name="[BR] Music Box Brasil FHD" group-title="BRAZIL",[BR] Music Box Brasil FHD
+http://supersonictv.live:8080/812493/376688/85051
+#EXTINF:-1 tvg-name="[BR] Natgeo FHD" group-title="BRAZIL",[BR] Natgeo FHD
+http://supersonictv.live:8080/812493/376688/85052
+#EXTINF:-1 tvg-name="[BR] Natgeo Kids FHD" group-title="BRAZIL",[BR] Natgeo Kids FHD
+http://supersonictv.live:8080/812493/376688/85053
+#EXTINF:-1 tvg-name="[BR] Natgeo Wild FHD" group-title="BRAZIL",[BR] Natgeo Wild FHD
+http://supersonictv.live:8080/812493/376688/85054
+#EXTINF:-1 tvg-name="[BR] Nick FHD" group-title="BRAZIL",[BR] Nick FHD
+http://supersonictv.live:8080/812493/376688/85055
+#EXTINF:-1 tvg-name="[BR] Nick JR FHD" group-title="BRAZIL",[BR] Nick JR FHD
+http://supersonictv.live:8080/812493/376688/85056
+#EXTINF:-1 tvg-name="[BR] NSC TV Blumenau FHD" group-title="BRAZIL",[BR] NSC TV Blumenau FHD
+http://supersonictv.live:8080/812493/376688/85057
+#EXTINF:-1 tvg-name="[BR] OFF FHD" group-title="BRAZIL",[BR] OFF FHD
+http://supersonictv.live:8080/812493/376688/85058
+#EXTINF:-1 tvg-name="[BR] Paramount Channel FHD" group-title="BRAZIL",[BR] Paramount Channel FHD
+http://supersonictv.live:8080/812493/376688/85059
+#EXTINF:-1 tvg-name="[BR] Play Kids HD" group-title="BRAZIL",[BR] Play Kids HD
+http://supersonictv.live:8080/812493/376688/85060
+#EXTINF:-1 tvg-name="[BR] Play TV FHD" group-title="BRAZIL",[BR] Play TV FHD
+http://supersonictv.live:8080/812493/376688/85061
+#EXTINF:-1 tvg-name="[BR] Premiere 2 FHD" group-title="BRAZIL",[BR] Premiere 2 FHD
+http://supersonictv.live:8080/812493/376688/85062
+#EXTINF:-1 tvg-name="[BR] Premiere 3 FHD" group-title="BRAZIL",[BR] Premiere 3 FHD
+http://supersonictv.live:8080/812493/376688/85063
+#EXTINF:-1 tvg-name="[BR] Premiere 4 FHD" group-title="BRAZIL",[BR] Premiere 4 FHD
+http://supersonictv.live:8080/812493/376688/85064
+#EXTINF:-1 tvg-name="[BR] Premiere 5 FHD" group-title="BRAZIL",[BR] Premiere 5 FHD
+http://supersonictv.live:8080/812493/376688/85065
+#EXTINF:-1 tvg-name="[BR] Premiere 6 FHD" group-title="BRAZIL",[BR] Premiere 6 FHD
+http://supersonictv.live:8080/812493/376688/85066
+#EXTINF:-1 tvg-name="[BR] Premiere 7 FHD" group-title="BRAZIL",[BR] Premiere 7 FHD
+http://supersonictv.live:8080/812493/376688/85067
+#EXTINF:-1 tvg-name="[BR] Premiere Clubes FHD" group-title="BRAZIL",[BR] Premiere Clubes FHD
+http://supersonictv.live:8080/812493/376688/85068
+#EXTINF:-1 tvg-name="[BR] Prime Box Brasil FHD" group-title="BRAZIL",[BR] Prime Box Brasil FHD
+http://supersonictv.live:8080/812493/376688/85069
+#EXTINF:-1 tvg-name="[BR] Record FHD" group-title="BRAZIL",[BR] Record FHD
+http://supersonictv.live:8080/812493/376688/85075
+#EXTINF:-1 tvg-name="[BR] Record HD" group-title="BRAZIL",[BR] Record HD
+http://supersonictv.live:8080/812493/376688/85077
+#EXTINF:-1 tvg-name="[BR] Record News FHD" group-title="BRAZIL",[BR] Record News FHD
+http://supersonictv.live:8080/812493/376688/85079
+#EXTINF:-1 tvg-name="[BR] RECORD RS*" group-title="BRAZIL",[BR] RECORD RS*
+http://supersonictv.live:8080/812493/376688/85083
+#EXTINF:-1 tvg-name="[BR] Record SP HD" group-title="BRAZIL",[BR] Record SP HD
+http://supersonictv.live:8080/812493/376688/85084
+#EXTINF:-1 tvg-name="[BR] RECORD*" group-title="BRAZIL",[BR] RECORD*
+http://supersonictv.live:8080/812493/376688/85085
+#EXTINF:-1 tvg-name="[BR] Rede Genisis FHD" group-title="BRAZIL",[BR] Rede Genisis FHD
+http://supersonictv.live:8080/812493/376688/85086
+#EXTINF:-1 tvg-name="[BR] Rede Super FHD" group-title="BRAZIL",[BR] Rede Super FHD
+http://supersonictv.live:8080/812493/376688/85087
+#EXTINF:-1 tvg-name="[BR] Rede TV FHD" group-title="BRAZIL",[BR] Rede TV FHD
+http://supersonictv.live:8080/812493/376688/85088
+#EXTINF:-1 tvg-name="[BR] SBT FHD" group-title="BRAZIL",[BR] SBT FHD
+http://supersonictv.live:8080/812493/376688/85089
+#EXTINF:-1 tvg-name="[BR] Shoptime FHD" group-title="BRAZIL",[BR] Shoptime FHD
+http://supersonictv.live:8080/812493/376688/85090
+#EXTINF:-1 tvg-name="[BR] Sony FHD" group-title="BRAZIL",[BR] Sony FHD
+http://supersonictv.live:8080/812493/376688/85091
+#EXTINF:-1 tvg-name="[BR] Space FHD" group-title="BRAZIL",[BR] Space FHD
+http://supersonictv.live:8080/812493/376688/85092
+#EXTINF:-1 tvg-name="[BR] SporTV 2 FHD" group-title="BRAZIL",[BR] SporTV 2 FHD
+http://supersonictv.live:8080/812493/376688/85093
+#EXTINF:-1 tvg-name="[BR] SporTV 3 FHD" group-title="BRAZIL",[BR] SporTV 3 FHD
+http://supersonictv.live:8080/812493/376688/85094
+#EXTINF:-1 tvg-name="[BR] SporTV FHD" group-title="BRAZIL",[BR] SporTV FHD
+http://supersonictv.live:8080/812493/376688/85095
+#EXTINF:-1 tvg-name="[BR] Studio Universal FHD" group-title="BRAZIL",[BR] Studio Universal FHD
+http://supersonictv.live:8080/812493/376688/85096
+#EXTINF:-1 tvg-name="[BR] SYFY FHD" group-title="BRAZIL",[BR] SYFY FHD
+http://supersonictv.live:8080/812493/376688/85097
+#EXTINF:-1 tvg-name="[BR] TBS FHD" group-title="BRAZIL",[BR] TBS FHD
+http://supersonictv.live:8080/812493/376688/85098
+#EXTINF:-1 tvg-name="[BR] TC ACTION FHD" group-title="BRAZIL",[BR] TC ACTION FHD
+http://supersonictv.live:8080/812493/376688/85099
+#EXTINF:-1 tvg-name="[BR] TC Cult FHD" group-title="BRAZIL",[BR] TC Cult FHD
+http://supersonictv.live:8080/812493/376688/85100
+#EXTINF:-1 tvg-name="[BR] TC Fun FHD" group-title="BRAZIL",[BR] TC Fun FHD
+http://supersonictv.live:8080/812493/376688/85101
+#EXTINF:-1 tvg-name="[BR] TC Pipoca FHD" group-title="BRAZIL",[BR] TC Pipoca FHD
+http://supersonictv.live:8080/812493/376688/85102
+#EXTINF:-1 tvg-name="[BR] TC Premium FHD" group-title="BRAZIL",[BR] TC Premium FHD
+http://supersonictv.live:8080/812493/376688/85103
+#EXTINF:-1 tvg-name="[BR] TC Touch FHD" group-title="BRAZIL",[BR] TC Touch FHD
+http://supersonictv.live:8080/812493/376688/85104
+#EXTINF:-1 tvg-name="[BR] TCM FHD" group-title="BRAZIL",[BR] TCM FHD
+http://supersonictv.live:8080/812493/376688/85105
+#EXTINF:-1 tvg-name="[BR] The History FHD" group-title="BRAZIL",[BR] The History FHD
+http://supersonictv.live:8080/812493/376688/85106
+#EXTINF:-1 tvg-name="[BR] TLC FHD" group-title="BRAZIL",[BR] TLC FHD
+http://supersonictv.live:8080/812493/376688/85107
+#EXTINF:-1 tvg-name="[BR] TNT FHD" group-title="BRAZIL",[BR] TNT FHD
+http://supersonictv.live:8080/812493/376688/85108
+#EXTINF:-1 tvg-name="[BR] TNT Series FHD" group-title="BRAZIL",[BR] TNT Series FHD
+http://supersonictv.live:8080/812493/376688/85109
+#EXTINF:-1 tvg-name="[BR] Tooncast FHD" group-title="BRAZIL",[BR] Tooncast FHD
+http://supersonictv.live:8080/812493/376688/85110
+#EXTINF:-1 tvg-name="[BR] Tru TV FHD" group-title="BRAZIL",[BR] Tru TV FHD
+http://supersonictv.live:8080/812493/376688/85111
+#EXTINF:-1 tvg-name="[BR] Tv Diario FHD" group-title="BRAZIL",[BR] Tv Diario FHD
+http://supersonictv.live:8080/812493/376688/85112
+#EXTINF:-1 tvg-name="[BR] TV Gazeta Alagoas FHD" group-title="BRAZIL",[BR] TV Gazeta Alagoas FHD
+http://supersonictv.live:8080/812493/376688/85113
+#EXTINF:-1 tvg-name="[BR] TV Gazeta FHD" group-title="BRAZIL",[BR] TV Gazeta FHD
+http://supersonictv.live:8080/812493/376688/85114
+#EXTINF:-1 tvg-name="[BR] TV Ra Tim Bum FHD" group-title="BRAZIL",[BR] TV Ra Tim Bum FHD
+http://supersonictv.live:8080/812493/376688/85115
+#EXTINF:-1 tvg-name="[BR] TV Santa Cruz FHD" group-title="BRAZIL",[BR] TV Santa Cruz FHD
+http://supersonictv.live:8080/812493/376688/85116
+#EXTINF:-1 tvg-name="[BR] TV Sergipe FHD" group-title="BRAZIL",[BR] TV Sergipe FHD
+http://supersonictv.live:8080/812493/376688/85117
+#EXTINF:-1 tvg-name="[BR] TV5****" group-title="BRAZIL",[BR] TV5****
+http://supersonictv.live:8080/812493/376688/85118
+#EXTINF:-1 tvg-name="[BR] Universal Channel FHD" group-title="BRAZIL",[BR] Universal Channel FHD
+http://supersonictv.live:8080/812493/376688/85119
+#EXTINF:-1 tvg-name="[BR] VH1 Mega Hits FHD" group-title="BRAZIL",[BR] VH1 Mega Hits FHD
+http://supersonictv.live:8080/812493/376688/85120
+#EXTINF:-1 tvg-name="[BR] Viva FHD" group-title="BRAZIL",[BR] Viva FHD
+http://supersonictv.live:8080/812493/376688/85121
+#EXTINF:-1 tvg-name="[BR] Warner Channel FHD" group-title="BRAZIL",[BR] Warner Channel FHD
+http://supersonictv.live:8080/812493/376688/85122
+#EXTINF:-1 tvg-name="[BR] Wohoo FHD" group-title="BRAZIL",[BR] Wohoo FHD
+http://supersonictv.live:8080/812493/376688/85123
+#EXTINF:-1 tvg-name="[BR] TV Tem Bauru FHD" group-title="BRAZIL",[BR] TV Tem Bauru FHD
+http://supersonictv.live:8080/812493/376688/85124
+#EXTINF:-1 tvg-name="[BR] AMC FHD" group-title="BRAZIL",[BR] AMC FHD
+http://supersonictv.live:8080/812493/376688/85125
+#EXTINF:-1 tvg-name="[BR] Conmebol 1 FHD" group-title="BRAZIL",[BR] Conmebol 1 FHD
+http://supersonictv.live:8080/812493/376688/85126
+#EXTINF:-1 tvg-name="[BR] Conmebol 2 FHD" group-title="BRAZIL",[BR] Conmebol 2 FHD
+http://supersonictv.live:8080/812493/376688/85127
+#EXTINF:-1 tvg-name="[BR] Conmebol 3 FHD" group-title="BRAZIL",[BR] Conmebol 3 FHD
+http://supersonictv.live:8080/812493/376688/85128
+#EXTINF:-1 tvg-name="[BR] Conmebol 4 FHD" group-title="BRAZIL",[BR] Conmebol 4 FHD
+http://supersonictv.live:8080/812493/376688/85129
+#EXTINF:-1 tvg-name="[BR] Boa Vontade FHD Â²" group-title="BRAZIL",[BR] Boa Vontade FHD Â²
+http://supersonictv.live:8080/812493/376688/85130
+#EXTINF:-1 tvg-name="[BR] Boa Vontade TV FHD" group-title="BRAZIL",[BR] Boa Vontade TV FHD
+http://supersonictv.live:8080/812493/376688/85131
+#EXTINF:-1 tvg-name="[BR] COPA DO NORDESTE 3 HD" group-title="BRAZIL",[BR] COPA DO NORDESTE 3 HD
+http://supersonictv.live:8080/812493/376688/85142
+#EXTINF:-1 tvg-name="[BR] COPA DO NORDESTE 4 HD" group-title="BRAZIL",[BR] COPA DO NORDESTE 4 HD
+http://supersonictv.live:8080/812493/376688/85143
+#EXTINF:-1 tvg-name="[BR] COPA DO NORDESTE 5 HD" group-title="BRAZIL",[BR] COPA DO NORDESTE 5 HD
+http://supersonictv.live:8080/812493/376688/85144
+#EXTINF:-1 tvg-name="[BR] COPA DO NORDESTE 6 HD" group-title="BRAZIL",[BR] COPA DO NORDESTE 6 HD
+http://supersonictv.live:8080/812493/376688/85145
+#EXTINF:-1 tvg-name="[BR] COPA DO NORDESTE HD" group-title="BRAZIL",[BR] COPA DO NORDESTE HD
+http://supersonictv.live:8080/812493/376688/85146
+#EXTINF:-1 tvg-name="[BR] Agro+ FHD" group-title="BRAZIL",[BR] Agro+ FHD
+http://supersonictv.live:8080/812493/376688/85147
+#EXTINF:-1 tvg-name="[BR] AgroBrasil TV" group-title="BRAZIL",[BR] AgroBrasil TV
+http://supersonictv.live:8080/812493/376688/85148
+#EXTINF:-1 tvg-name="[BR] All Sports HD" group-title="BRAZIL",[BR] All Sports HD
+http://supersonictv.live:8080/812493/376688/85149
+#EXTINF:-1 tvg-name="[BR] AllTV HD" group-title="BRAZIL",[BR] AllTV HD
+http://supersonictv.live:8080/812493/376688/85150
+#EXTINF:-1 tvg-name="[BR] Canal 26 Argentina" group-title="BRAZIL",[BR] Canal 26 Argentina
+http://supersonictv.live:8080/812493/376688/85152
+#EXTINF:-1 tvg-name="[BR] Canal Rural FHD" group-title="BRAZIL",[BR] Canal Rural FHD
+http://supersonictv.live:8080/812493/376688/85153
+#EXTINF:-1 tvg-name="[BR] Canale 7 ItÃ¡lia" group-title="BRAZIL",[BR] Canale 7 ItÃ¡lia
+http://supersonictv.live:8080/812493/376688/85154
+#EXTINF:-1 tvg-name="[BR] Carioca 2 HD" group-title="BRAZIL",[BR] Carioca 2 HD
+http://supersonictv.live:8080/812493/376688/85157
+#EXTINF:-1 tvg-name="[BR] Carioca HD" group-title="BRAZIL",[BR] Carioca HD
+http://supersonictv.live:8080/812493/376688/85158
+#EXTINF:-1 tvg-name="[BR] CBN Rio" group-title="BRAZIL",[BR] CBN Rio
+http://supersonictv.live:8080/812493/376688/85159
+#EXTINF:-1 tvg-name="[BR] CBN SÃ£o Paulo" group-title="BRAZIL",[BR] CBN SÃ£o Paulo
+http://supersonictv.live:8080/812493/376688/85160
+#EXTINF:-1 tvg-name="[BR] Central|Top TV HD" group-title="BRAZIL",[BR] Central|Top TV HD
+http://supersonictv.live:8080/812493/376688/85161
+#EXTINF:-1 tvg-name="[BR] CGTN" group-title="BRAZIL",[BR] CGTN
+http://supersonictv.live:8080/812493/376688/85162
+#EXTINF:-1 tvg-name="[BR] CNT FHD" group-title="BRAZIL",[BR] CNT FHD
+http://supersonictv.live:8080/812493/376688/85163
+#EXTINF:-1 tvg-name="[BR] COM Brasil TV FHD" group-title="BRAZIL",[BR] COM Brasil TV FHD
+http://supersonictv.live:8080/812493/376688/85164
+#EXTINF:-1 tvg-name="[BR] COMBATE 4K" group-title="BRAZIL",[BR] COMBATE 4K
+http://supersonictv.live:8080/812493/376688/85165
+#EXTINF:-1 tvg-name="[BR] Conmebol 1 HD" group-title="BRAZIL",[BR] Conmebol 1 HD
+http://supersonictv.live:8080/812493/376688/85166
+#EXTINF:-1 tvg-name="[BR] Conmebol 2 HD" group-title="BRAZIL",[BR] Conmebol 2 HD
+http://supersonictv.live:8080/812493/376688/85167
+#EXTINF:-1 tvg-name="[BR] Conmebol 4K" group-title="BRAZIL",[BR] Conmebol 4K
+http://supersonictv.live:8080/812493/376688/85168
+#EXTINF:-1 tvg-name="[BR] Conmebol 5 HD" group-title="BRAZIL",[BR] Conmebol 5 HD
+http://supersonictv.live:8080/812493/376688/85169
+#EXTINF:-1 tvg-name="[BR] Conmebol 6 HD" group-title="BRAZIL",[BR] Conmebol 6 HD
+http://supersonictv.live:8080/812493/376688/85170
+#EXTINF:-1 tvg-name="[BR] Dog TV FHD" group-title="BRAZIL",[BR] Dog TV FHD
+http://supersonictv.live:8080/812493/376688/85171
+#EXTINF:-1 tvg-name="[BR] ESPORTE INTERATIVO 5 HD" group-title="BRAZIL",[BR] ESPORTE INTERATIVO 5 HD
+http://supersonictv.live:8080/812493/376688/85172
+#EXTINF:-1 tvg-name="[BR] ESPORTE INTERATIVO 6 HD" group-title="BRAZIL",[BR] ESPORTE INTERATIVO 6 HD
+http://supersonictv.live:8080/812493/376688/85173
+#EXTINF:-1 tvg-name="[BR] ESPORTE INTERATIVO 7 HD" group-title="BRAZIL",[BR] ESPORTE INTERATIVO 7 HD
+http://supersonictv.live:8080/812493/376688/85174
+#EXTINF:-1 tvg-name="[BR] ESPORTE INTERATIVO 8 HD" group-title="BRAZIL",[BR] ESPORTE INTERATIVO 8 HD
+http://supersonictv.live:8080/812493/376688/85175
+#EXTINF:-1 tvg-name="[BR] ESPORTE INTERATIVO 9 HD" group-title="BRAZIL",[BR] ESPORTE INTERATIVO 9 HD
+http://supersonictv.live:8080/812493/376688/85176
+#EXTINF:-1 tvg-name="[BR] ESPORTE INTERATIVO 10 HD" group-title="BRAZIL",[BR] ESPORTE INTERATIVO 10 HD
+http://supersonictv.live:8080/812493/376688/85177
+#EXTINF:-1 tvg-name="[BR] ESPN Brasil 4K" group-title="BRAZIL",[BR] ESPN Brasil 4K
+http://supersonictv.live:8080/812493/376688/85178
+#EXTINF:-1 tvg-name="[BR] FLA TV+ FHD" group-title="BRAZIL",[BR] FLA TV+ FHD
+http://supersonictv.live:8080/812493/376688/85179
+#EXTINF:-1 tvg-name="[BR] FLA TV+ HD" group-title="BRAZIL",[BR] FLA TV+ HD
+http://supersonictv.live:8080/812493/376688/85180
+#EXTINF:-1 tvg-name="[BR] FOX SPORTS 2 4K" group-title="BRAZIL",[BR] FOX SPORTS 2 4K
+http://supersonictv.live:8080/812493/376688/85181
+#EXTINF:-1 tvg-name="[BR] Fox Sports 4K" group-title="BRAZIL",[BR] Fox Sports 4K
+http://supersonictv.live:8080/812493/376688/85182
+#EXTINF:-1 tvg-name="[BR] GLOBO 4K" group-title="BRAZIL",[BR] GLOBO 4K
+http://supersonictv.live:8080/812493/376688/85183
+#EXTINF:-1 tvg-name="[BR] HBO 2 DUAL FHD" group-title="BRAZIL",[BR] HBO 2 DUAL FHD
+http://supersonictv.live:8080/812493/376688/85211
+#EXTINF:-1 tvg-name="[BR] HBO 2 DUAL HD" group-title="BRAZIL",[BR] HBO 2 DUAL HD
+http://supersonictv.live:8080/812493/376688/85212
+#EXTINF:-1 tvg-name="[BR] HBO 4K" group-title="BRAZIL",[BR] HBO 4K
+http://supersonictv.live:8080/812493/376688/85213
+#EXTINF:-1 tvg-name="[BR] HBO DUAL FHD" group-title="BRAZIL",[BR] HBO DUAL FHD
+http://supersonictv.live:8080/812493/376688/85214
+#EXTINF:-1 tvg-name="[BR] HBO DUAL HD" group-title="BRAZIL",[BR] HBO DUAL HD
+http://supersonictv.live:8080/812493/376688/85215
+#EXTINF:-1 tvg-name="[BR] HBO Family DUAL FHD" group-title="BRAZIL",[BR] HBO Family DUAL FHD
+http://supersonictv.live:8080/812493/376688/85216
+#EXTINF:-1 tvg-name="[BR] HBO Family DUAL HD" group-title="BRAZIL",[BR] HBO Family DUAL HD
+http://supersonictv.live:8080/812493/376688/85217
+#EXTINF:-1 tvg-name="[BR] HBO Mundi DUAL FHD" group-title="BRAZIL",[BR] HBO Mundi DUAL FHD
+http://supersonictv.live:8080/812493/376688/85218
+#EXTINF:-1 tvg-name="[BR] HBO Mundi DUAL HD" group-title="BRAZIL",[BR] HBO Mundi DUAL HD
+http://supersonictv.live:8080/812493/376688/85219
+#EXTINF:-1 tvg-name="[BR] HBO Pop DUAL HD" group-title="BRAZIL",[BR] HBO Pop DUAL HD
+http://supersonictv.live:8080/812493/376688/85220
+#EXTINF:-1 tvg-name="[BR] HBO XTREME 4K" group-title="BRAZIL",[BR] HBO XTREME 4K
+http://supersonictv.live:8080/812493/376688/85221
+#EXTINF:-1 tvg-name="[BR] HBO Xtreme DUAL FHD" group-title="BRAZIL",[BR] HBO Xtreme DUAL FHD
+http://supersonictv.live:8080/812493/376688/85222
+#EXTINF:-1 tvg-name="[BR] HBO Xtreme DUAL HD" group-title="BRAZIL",[BR] HBO Xtreme DUAL HD
+http://supersonictv.live:8080/812493/376688/85223
+#EXTINF:-1 tvg-name="[BR] Heavy Metal TV" group-title="BRAZIL",[BR] Heavy Metal TV
+http://supersonictv.live:8080/812493/376688/85224
+#EXTINF:-1 tvg-name="[BR] Igreja Mundial FHD" group-title="BRAZIL",[BR] Igreja Mundial FHD
+http://supersonictv.live:8080/812493/376688/85225
+#EXTINF:-1 tvg-name="[BR] Igreja Universal HD" group-title="BRAZIL",[BR] Igreja Universal HD
+http://supersonictv.live:8080/812493/376688/85226
+#EXTINF:-1 tvg-name="[BR] ITV HD" group-title="BRAZIL",[BR] ITV HD
+http://supersonictv.live:8080/812493/376688/85227
+#EXTINF:-1 tvg-name="[BR] Jovem Pan News FHD" group-title="BRAZIL",[BR] Jovem Pan News FHD
+http://supersonictv.live:8080/812493/376688/85228
+#EXTINF:-1 tvg-name="[BR] KPOP TV SY HD" group-title="BRAZIL",[BR] KPOP TV SY HD
+http://supersonictv.live:8080/812493/376688/85229
+#EXTINF:-1 tvg-name="[BR] Loading TV FHD" group-title="BRAZIL",[BR] Loading TV FHD
+http://supersonictv.live:8080/812493/376688/85230
+#EXTINF:-1 tvg-name="[BR] Master TV HD" group-title="BRAZIL",[BR] Master TV HD
+http://supersonictv.live:8080/812493/376688/85231
+#EXTINF:-1 tvg-name="[BR] MEGAPIX 4K" group-title="BRAZIL",[BR] MEGAPIX 4K
+http://supersonictv.live:8080/812493/376688/85232
+#EXTINF:-1 tvg-name="[BR] MULTISHOW 4K" group-title="BRAZIL",[BR] MULTISHOW 4K
+http://supersonictv.live:8080/812493/376688/85233
+#EXTINF:-1 tvg-name="[BR] Music Top HD" group-title="BRAZIL",[BR] Music Top HD
+http://supersonictv.live:8080/812493/376688/85234
+#EXTINF:-1 tvg-name="[BR] NATGEO 4K" group-title="BRAZIL",[BR] NATGEO 4K
+http://supersonictv.live:8080/812493/376688/85235
+#EXTINF:-1 tvg-name="[BR] NHK Japan" group-title="BRAZIL",[BR] NHK Japan
+http://supersonictv.live:8080/812493/376688/85236
+#EXTINF:-1 tvg-name="[BR] Polishop FHD" group-title="BRAZIL",[BR] Polishop FHD
+http://supersonictv.live:8080/812493/376688/85239
+#EXTINF:-1 tvg-name="[BR] PREMIERE CLUBES 4K" group-title="BRAZIL",[BR] PREMIERE CLUBES 4K
+http://supersonictv.live:8080/812493/376688/85240
+#EXTINF:-1 tvg-name="[BR] RBC FHD" group-title="BRAZIL",[BR] RBC FHD
+http://supersonictv.live:8080/812493/376688/85241
+#EXTINF:-1 tvg-name="[BR] RBI TV FHD" group-title="BRAZIL",[BR] RBI TV FHD
+http://supersonictv.live:8080/812493/376688/85242
+#EXTINF:-1 tvg-name="[BR] RBT Rede Brasil TV FHD" group-title="BRAZIL",[BR] RBT Rede Brasil TV FHD
+http://supersonictv.live:8080/812493/376688/85243
+#EXTINF:-1 tvg-name="[BR] RBT Rede Brasil TV HD" group-title="BRAZIL",[BR] RBT Rede Brasil TV HD
+http://supersonictv.live:8080/812493/376688/85244
+#EXTINF:-1 tvg-name="[BR] RECORD 4K" group-title="BRAZIL",[BR] RECORD 4K
+http://supersonictv.live:8080/812493/376688/85245
+#EXTINF:-1 tvg-name="[BR] Record SD" group-title="BRAZIL",[BR] Record SD
+http://supersonictv.live:8080/812493/376688/85255
+#EXTINF:-1 tvg-name="[BR] Record SP HD" group-title="BRAZIL",[BR] Record SP HD
+http://supersonictv.live:8080/812493/376688/85256
+#EXTINF:-1 tvg-name="[BR] Redbull TV HD" group-title="BRAZIL",[BR] Redbull TV HD
+http://supersonictv.live:8080/812493/376688/85257
+#EXTINF:-1 tvg-name="[BR] Rede Minas FHD" group-title="BRAZIL",[BR] Rede Minas FHD
+http://supersonictv.live:8080/812493/376688/85260
+#EXTINF:-1 tvg-name="[BR] Rede SÃ©culo 21" group-title="BRAZIL",[BR] Rede SÃ©culo 21
+http://supersonictv.live:8080/812493/376688/85261
+#EXTINF:-1 tvg-name="[BR] Rede TV 4K" group-title="BRAZIL",[BR] Rede TV 4K
+http://supersonictv.live:8080/812493/376688/85262
+#EXTINF:-1 tvg-name="[BR] Retro Music" group-title="BRAZIL",[BR] Retro Music
+http://supersonictv.live:8080/812493/376688/85263
+#EXTINF:-1 tvg-name="[BR] RIT TV FHD" group-title="BRAZIL",[BR] RIT TV FHD
+http://supersonictv.live:8080/812493/376688/85264
+#EXTINF:-1 tvg-name="[BR] RIT TV HD" group-title="BRAZIL",[BR] RIT TV HD
+http://supersonictv.live:8080/812493/376688/85265
+#EXTINF:-1 tvg-name="[BR] Rock TV" group-title="BRAZIL",[BR] Rock TV
+http://supersonictv.live:8080/812493/376688/85266
+#EXTINF:-1 tvg-name="[BR] SantuÃ¡rio de FÃ¡tima FHD" group-title="BRAZIL",[BR] SantuÃ¡rio de FÃ¡tima FHD
+http://supersonictv.live:8080/812493/376688/85267
+#EXTINF:-1 tvg-name="[BR] SBT 4K" group-title="BRAZIL",[BR] SBT 4K
+http://supersonictv.live:8080/812493/376688/85268
+#EXTINF:-1 tvg-name="[BR] SBT Int SP FHD" group-title="BRAZIL",[BR] SBT Int SP FHD
+http://supersonictv.live:8080/812493/376688/85273
+#EXTINF:-1 tvg-name="[BR] SescTV FHD" group-title="BRAZIL",[BR] SescTV FHD
+http://supersonictv.live:8080/812493/376688/85281
+#EXTINF:-1 tvg-name="[BR] Space 4K" group-title="BRAZIL",[BR] Space 4K
+http://supersonictv.live:8080/812493/376688/85282
+#EXTINF:-1 tvg-name="[BR] SPORTV 4K" group-title="BRAZIL",[BR] SPORTV 4K
+http://supersonictv.live:8080/812493/376688/85283
+#EXTINF:-1 tvg-name="[BR] STAR CHANNEL 4K" group-title="BRAZIL",[BR] STAR CHANNEL 4K
+http://supersonictv.live:8080/812493/376688/85284
+#EXTINF:-1 tvg-name="[BR] Star DUAL HD" group-title="BRAZIL",[BR] Star DUAL HD
+http://supersonictv.live:8080/812493/376688/85285
+#EXTINF:-1 tvg-name="[BR] Studio Universal DUAL HD" group-title="BRAZIL",[BR] Studio Universal DUAL HD
+http://supersonictv.live:8080/812493/376688/85286
+#EXTINF:-1 tvg-name="[BR] Summer TV HD" group-title="BRAZIL",[BR] Summer TV HD
+http://supersonictv.live:8080/812493/376688/85287
+#EXTINF:-1 tvg-name="[BR] Taormina TV HD" group-title="BRAZIL",[BR] Taormina TV HD
+http://supersonictv.live:8080/812493/376688/85288
+#EXTINF:-1 tvg-name="[BR] TC Action DUAL FHD" group-title="BRAZIL",[BR] TC Action DUAL FHD
+http://supersonictv.live:8080/812493/376688/85289
+#EXTINF:-1 tvg-name="[BR] TC Action DUAL HD" group-title="BRAZIL",[BR] TC Action DUAL HD
+http://supersonictv.live:8080/812493/376688/85290
+#EXTINF:-1 tvg-name="[BR] TC Cult DUAL FHD" group-title="BRAZIL",[BR] TC Cult DUAL FHD
+http://supersonictv.live:8080/812493/376688/85291
+#EXTINF:-1 tvg-name="[BR] TC Cult DUAL HD" group-title="BRAZIL",[BR] TC Cult DUAL HD
+http://supersonictv.live:8080/812493/376688/85292
+#EXTINF:-1 tvg-name="[BR] TC Fun DUAL FHD" group-title="BRAZIL",[BR] TC Fun DUAL FHD
+http://supersonictv.live:8080/812493/376688/85293
+#EXTINF:-1 tvg-name="[BR] TC Fun DUAL HD" group-title="BRAZIL",[BR] TC Fun DUAL HD
+http://supersonictv.live:8080/812493/376688/85294
+#EXTINF:-1 tvg-name="[BR] TC Pipoca DUAL FHD" group-title="BRAZIL",[BR] TC Pipoca DUAL FHD
+http://supersonictv.live:8080/812493/376688/85295
+#EXTINF:-1 tvg-name="[BR] TC Pipoca DUAL HD" group-title="BRAZIL",[BR] TC Pipoca DUAL HD
+http://supersonictv.live:8080/812493/376688/85296
+#EXTINF:-1 tvg-name="[BR] TC Premium DUAL FHD" group-title="BRAZIL",[BR] TC Premium DUAL FHD
+http://supersonictv.live:8080/812493/376688/85297
+#EXTINF:-1 tvg-name="[BR] TC Premium DUAL HD" group-title="BRAZIL",[BR] TC Premium DUAL HD
+http://supersonictv.live:8080/812493/376688/85298
+#EXTINF:-1 tvg-name="[BR] TC Touch DUAL FHD" group-title="BRAZIL",[BR] TC Touch DUAL FHD
+http://supersonictv.live:8080/812493/376688/85299
+#EXTINF:-1 tvg-name="[BR] TC Touch DUAL HD" group-title="BRAZIL",[BR] TC Touch DUAL HD
+http://supersonictv.live:8080/812493/376688/85300
+#EXTINF:-1 tvg-name="[BR] TELECINE PREMIUM 4K" group-title="BRAZIL",[BR] TELECINE PREMIUM 4K
+http://supersonictv.live:8080/812493/376688/85301
+#EXTINF:-1 tvg-name="[BR] Terra Viva FHD" group-title="BRAZIL",[BR] Terra Viva FHD
+http://supersonictv.live:8080/812493/376688/85302
+#EXTINF:-1 tvg-name="[BR] Terra Viva HD" group-title="BRAZIL",[BR] Terra Viva HD
+http://supersonictv.live:8080/812493/376688/85303
+#EXTINF:-1 tvg-name="[BR] TNT 4K" group-title="BRAZIL",[BR] TNT 4K
+http://supersonictv.live:8080/812493/376688/85305
+#EXTINF:-1 tvg-name="[BR] TNT DUAL FHD" group-title="BRAZIL",[BR] TNT DUAL FHD
+http://supersonictv.live:8080/812493/376688/85306
+#EXTINF:-1 tvg-name="[BR] TNT DUAL HD" group-title="BRAZIL",[BR] TNT DUAL HD
+http://supersonictv.live:8080/812493/376688/85307
+#EXTINF:-1 tvg-name="[BR] TNT SÃRIES 4K" group-title="BRAZIL",[BR] TNT SÃRIES 4K
+http://supersonictv.live:8080/812493/376688/85308
+#EXTINF:-1 tvg-name="[BR] TNT Series DUAL HD" group-title="BRAZIL",[BR] TNT Series DUAL HD
+http://supersonictv.live:8080/812493/376688/85309
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 1 HD" group-title="BRAZIL",[BR] TNT SPORTS 1 HD
+http://supersonictv.live:8080/812493/376688/85310
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 1 SD" group-title="BRAZIL",[BR] TNT SPORTS 1 SD
+http://supersonictv.live:8080/812493/376688/85311
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 2 HD" group-title="BRAZIL",[BR] TNT SPORTS 2 HD
+http://supersonictv.live:8080/812493/376688/85312
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 2 SD" group-title="BRAZIL",[BR] TNT SPORTS 2 SD
+http://supersonictv.live:8080/812493/376688/85313
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 3 HD" group-title="BRAZIL",[BR] TNT SPORTS 3 HD
+http://supersonictv.live:8080/812493/376688/85314
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 3 SD" group-title="BRAZIL",[BR] TNT SPORTS 3 SD
+http://supersonictv.live:8080/812493/376688/85315
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 4 HD" group-title="BRAZIL",[BR] TNT SPORTS 4 HD
+http://supersonictv.live:8080/812493/376688/85316
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 4 SD" group-title="BRAZIL",[BR] TNT SPORTS 4 SD
+http://supersonictv.live:8080/812493/376688/85317
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 5 HD" group-title="BRAZIL",[BR] TNT SPORTS 5 HD
+http://supersonictv.live:8080/812493/376688/85318
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 5 SD" group-title="BRAZIL",[BR] TNT SPORTS 5 SD
+http://supersonictv.live:8080/812493/376688/85319
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 6 HD" group-title="BRAZIL",[BR] TNT SPORTS 6 HD
+http://supersonictv.live:8080/812493/376688/85320
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 6 SD" group-title="BRAZIL",[BR] TNT SPORTS 6 SD
+http://supersonictv.live:8080/812493/376688/85321
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 7 HD" group-title="BRAZIL",[BR] TNT SPORTS 7 HD
+http://supersonictv.live:8080/812493/376688/85322
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 7 SD" group-title="BRAZIL",[BR] TNT SPORTS 7 SD
+http://supersonictv.live:8080/812493/376688/85323
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 8 HD" group-title="BRAZIL",[BR] TNT SPORTS 8 HD
+http://supersonictv.live:8080/812493/376688/85324
+#EXTINF:-1 tvg-name="[BR] TNT SPORTS 8 SD" group-title="BRAZIL",[BR] TNT SPORTS 8 SD
+http://supersonictv.live:8080/812493/376688/85325
+#EXTINF:-1 tvg-name="[BR] Travel Box FHD" group-title="BRAZIL",[BR] Travel Box FHD
+http://supersonictv.live:8080/812493/376688/85326
+#EXTINF:-1 tvg-name="[BR] TV Ambiental" group-title="BRAZIL",[BR] TV Ambiental
+http://supersonictv.live:8080/812493/376688/85327
+#EXTINF:-1 tvg-name="[BR] TV Aparecida FHD" group-title="BRAZIL",[BR] TV Aparecida FHD
+http://supersonictv.live:8080/812493/376688/85328
+#EXTINF:-1 tvg-name="[BR] TV Brasil 2 FHD" group-title="BRAZIL",[BR] TV Brasil 2 FHD
+http://supersonictv.live:8080/812493/376688/85329
+#EXTINF:-1 tvg-name="[BR] TV Brasil FHD" group-title="BRAZIL",[BR] TV Brasil FHD
+http://supersonictv.live:8080/812493/376688/85330
+#EXTINF:-1 tvg-name="[BR] TV Camara FHD" group-title="BRAZIL",[BR] TV Camara FHD
+http://supersonictv.live:8080/812493/376688/85331
+#EXTINF:-1 tvg-name="[BR] TV CÃ¢mara FHD" group-title="BRAZIL",[BR] TV CÃ¢mara FHD
+http://supersonictv.live:8080/812493/376688/85332
+#EXTINF:-1 tvg-name="[BR] TV Cultura FHD" group-title="BRAZIL",[BR] TV Cultura FHD
+http://supersonictv.live:8080/812493/376688/85333
+#EXTINF:-1 tvg-name="[BR] TV Cultura HD" group-title="BRAZIL",[BR] TV Cultura HD
+http://supersonictv.live:8080/812493/376688/85334
+#EXTINF:-1 tvg-name="[BR] TV das Artes" group-title="BRAZIL",[BR] TV das Artes
+http://supersonictv.live:8080/812493/376688/85335
+#EXTINF:-1 tvg-name="[BR] TV Envangelizar" group-title="BRAZIL",[BR] TV Envangelizar
+http://supersonictv.live:8080/812493/376688/85336
+#EXTINF:-1 tvg-name="[BR] TV Escola FHD" group-title="BRAZIL",[BR] TV Escola FHD
+http://supersonictv.live:8080/812493/376688/85337
+#EXTINF:-1 tvg-name="[BR] TV Escola HD" group-title="BRAZIL",[BR] TV Escola HD
+http://supersonictv.live:8080/812493/376688/85338
+#EXTINF:-1 tvg-name="[BR] TV Gazeta 4K" group-title="BRAZIL",[BR] TV Gazeta 4K
+http://supersonictv.live:8080/812493/376688/85339
+#EXTINF:-1 tvg-name="[BR] TV Gideoes HD" group-title="BRAZIL",[BR] TV Gideoes HD
+http://supersonictv.live:8080/812493/376688/85340
+#EXTINF:-1 tvg-name="[BR] TV Imaculada HD" group-title="BRAZIL",[BR] TV Imaculada HD
+http://supersonictv.live:8080/812493/376688/85341
+#EXTINF:-1 tvg-name="[BR] TV JustiÃ§a" group-title="BRAZIL",[BR] TV JustiÃ§a
+http://supersonictv.live:8080/812493/376688/85342
+#EXTINF:-1 tvg-name="[BR] TV JustiÃ§a FHD" group-title="BRAZIL",[BR] TV JustiÃ§a FHD
+http://supersonictv.live:8080/812493/376688/85343
+#EXTINF:-1 tvg-name="[BR] TV Novo Tempo FHD" group-title="BRAZIL",[BR] TV Novo Tempo FHD
+http://supersonictv.live:8080/812493/376688/85344
+#EXTINF:-1 tvg-name="[BR] TV Novo Tempo HD" group-title="BRAZIL",[BR] TV Novo Tempo HD
+http://supersonictv.live:8080/812493/376688/85345
+#EXTINF:-1 tvg-name="[BR] TV Pai Eterno FHD" group-title="BRAZIL",[BR] TV Pai Eterno FHD
+http://supersonictv.live:8080/812493/376688/85346
+#EXTINF:-1 tvg-name="[BR] TV Pai Eterno HD" group-title="BRAZIL",[BR] TV Pai Eterno HD
+http://supersonictv.live:8080/812493/376688/85347
+#EXTINF:-1 tvg-name="[BR] TV Pampa HD" group-title="BRAZIL",[BR] TV Pampa HD
+http://supersonictv.live:8080/812493/376688/85348
+#EXTINF:-1 tvg-name="[BR] TV Senado HD" group-title="BRAZIL",[BR] TV Senado HD
+http://supersonictv.live:8080/812493/376688/85349
+#EXTINF:-1 tvg-name="[BR] TV UAI HD" group-title="BRAZIL",[BR] TV UAI HD
+http://supersonictv.live:8080/812493/376688/85350
+#EXTINF:-1 tvg-name="[BR] TV5 Monde HD" group-title="BRAZIL",[BR] TV5 Monde HD
+http://supersonictv.live:8080/812493/376688/85351
+#EXTINF:-1 tvg-name="[BR] TVE FHD" group-title="BRAZIL",[BR] TVE FHD
+http://supersonictv.live:8080/812493/376688/85352
+#EXTINF:-1 tvg-name="[BR] TVE RS FHD" group-title="BRAZIL",[BR] TVE RS FHD
+http://supersonictv.live:8080/812493/376688/85353
+#EXTINF:-1 tvg-name="[BR] Universal TV DUAL HD" group-title="BRAZIL",[BR] Universal TV DUAL HD
+http://supersonictv.live:8080/812493/376688/85354
+#EXTINF:-1 tvg-name="[BR] VH1 HD" group-title="BRAZIL",[BR] VH1 HD
+http://supersonictv.live:8080/812493/376688/85355
+#EXTINF:-1 tvg-name="[BR] Warner Channel DUAL HD" group-title="BRAZIL",[BR] Warner Channel DUAL HD
+http://supersonictv.live:8080/812493/376688/85356
+#EXTINF:-1 tvg-name="[BR] Yeeaah HD" group-title="BRAZIL",[BR] Yeeaah HD
+http://supersonictv.live:8080/812493/376688/85357
+#EXTINF:-1 tvg-name="[BR] Zoom TV HD" group-title="BRAZIL",[BR] Zoom TV HD
+http://supersonictv.live:8080/812493/376688/85358
+#EXTINF:-1 tvg-name="[BR] ZooMoo HD" group-title="BRAZIL",[BR] ZooMoo HD
+http://supersonictv.live:8080/812493/376688/85359
+#EXTINF:-1 tvg-name="[BR] ZooMoo SD" group-title="BRAZIL",[BR] ZooMoo SD
+http://supersonictv.live:8080/812493/376688/85360
+#EXTINF:-1 tvg-name="[BR] 24h Power Couple" group-title="BRAZIL",[BR] 24h Power Couple
+http://supersonictv.live:8080/812493/376688/85361
+#EXTINF:-1 tvg-name="[BR] DJTV HD" group-title="BRAZIL",[BR] DJTV HD
+http://supersonictv.live:8080/812493/376688/85362
+#EXTINF:-1 tvg-name="[BR] TV MaisNews|Cultura FHD" group-title="BRAZIL",[BR] TV MaisNews|Cultura FHD
+http://supersonictv.live:8080/812493/376688/85363
+#EXTINF:-1 tvg-name="[BR] Life Channel BR FHD" group-title="BRAZIL",[BR] Life Channel BR FHD
+http://supersonictv.live:8080/812493/376688/85364
+#EXTINF:-1 tvg-name="[BR] TV Carioca HD" group-title="BRAZIL",[BR] TV Carioca HD
+http://supersonictv.live:8080/812493/376688/85365
+#EXTINF:-1 tvg-name="[BR] TV Pampa HD" group-title="BRAZIL",[BR] TV Pampa HD
+http://supersonictv.live:8080/812493/376688/85366
+#EXTINF:-1 tvg-name="[BR] Primer TV HD" group-title="BRAZIL",[BR] Primer TV HD
+http://supersonictv.live:8080/812493/376688/85367
+#EXTINF:-1 tvg-name="[BR] ChromaTV" group-title="BRAZIL",[BR] ChromaTV
+http://supersonictv.live:8080/812493/376688/85368
+#EXTINF:-1 tvg-name="[BR] TV Mon HD" group-title="BRAZIL",[BR] TV Mon HD
+http://supersonictv.live:8080/812493/376688/85369
+#EXTINF:-1 tvg-name="[BR] Demais TV" group-title="BRAZIL",[BR] Demais TV
+http://supersonictv.live:8080/812493/376688/85370
+#EXTINF:-1 tvg-name="[BR] TV A Plateia HD" group-title="BRAZIL",[BR] TV A Plateia HD
+http://supersonictv.live:8080/812493/376688/85371
+#EXTINF:-1 tvg-name="[BR] Vale TV-Play" group-title="BRAZIL",[BR] Vale TV-Play
+http://supersonictv.live:8080/812493/376688/85372
+#EXTINF:-1 tvg-name="[BR] Vale EU TV" group-title="BRAZIL",[BR] Vale EU TV
+http://supersonictv.live:8080/812493/376688/85373
+#EXTINF:-1 tvg-name="[BR] Urban TV HD" group-title="BRAZIL",[BR] Urban TV HD
+http://supersonictv.live:8080/812493/376688/85374
+#EXTINF:-1 tvg-name="[BR] TVideosNews HD" group-title="BRAZIL",[BR] TVideosNews HD
+http://supersonictv.live:8080/812493/376688/85375
+#EXTINF:-1 tvg-name="[BR] VRT Channel HD" group-title="BRAZIL",[BR] VRT Channel HD
+http://supersonictv.live:8080/812493/376688/85376
+#EXTINF:-1 tvg-name="[BR] SporTV 4 HD OlimpÃ­adas" group-title="BRAZIL",[BR] SporTV 4 HD OlimpÃ­adas
+http://supersonictv.live:8080/812493/376688/85387
